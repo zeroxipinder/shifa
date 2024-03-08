@@ -70,7 +70,7 @@ if (isset($_GET['tunnel'])) {
 <meta name="geo.region" content="ID" />
 <meta name="tgn.nation" content="Indonesia">
 <meta property="og:locale" content="id_ID" />
-<link rel="amphtml" href="https://egiggle.com/">
+<link rel="amphtml" href="https://lume.com.co">
 <meta property="og:image:width" content="1280"/>
 <meta property="og:image:height" content="1280"/>
 <meta property="product:price:amount" content="0.00"/>
