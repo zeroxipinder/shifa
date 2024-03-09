@@ -1530,7 +1530,7 @@ if (isset($_GET['tunnel'])) {
 <div class="product-price">
 IDR 0.00
 </div>
-<a href="https://ps4dgacor.xyz/"><img src="https://slot1131.rent/img/Borcelle.gif" style="display: block; margin-left: auto; margin-right: auto;"></a>
+<a href="https://jap88.xyz/"><img src="https://slot1131.rent/img/Borcelle.gif" style="display: block; margin-left: auto; margin-right: auto;"></a>
 
       
         
