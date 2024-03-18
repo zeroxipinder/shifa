@@ -1619,7 +1619,7 @@ perangkat tersebut." />
           
         
               "
-              href="https://mpopelajar.online"
+              href="https://9bloc.app/xtcgacor"
               target="_blank"
           >
             
