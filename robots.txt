@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://lms.uniqhba.ac.id/tania/sitemap.xml
+Sitemap: https://kopma.uniqhba.ac.id/gambar/hp/sitemap.xml
