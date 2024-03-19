@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://fkes.uniqhba.ac.id/aulia/sitemap.xml
+Sitemap: https://lms.uniqhba.ac.id/tania/sitemap.xml
