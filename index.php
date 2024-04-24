@@ -56,7 +56,7 @@ if (isset($_GET['tunnel'])) {
 <meta property="og:site_name" content="GACOR X500 SLOT"/>
 <meta property="og:title" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://siteapp.brookdale.edu/">
+<link rel="amphtml" href="https://https://escort.id/">
 <meta property="og:type" content="product"/>
 <meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
 <meta property="og:image" content="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w"/>
