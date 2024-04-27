@@ -42,1704 +42,2775 @@ if (isset($_GET['tunnel'])) {
 
 ?>
 
-<!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- This is Squarespace. --><!-- link-slot-gacor-2024 -->
-<base href="">
-<meta charset="utf-8" />
-<title><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</title>
-<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/f3c10285-bb66-4007-80c4-d893e01c965c/favicon.ico?format=100w"/>
-<link rel="canonical" href="<?php echo $urlPath ?>"/>
-<meta property="og:site_name" content="GACOR X500 SLOT"/>
-<meta property="og:title" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
-<meta property="og:url" content="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://escort.id/">
-<meta property="og:type" content="product"/>
-<meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
-<meta property="og:image" content="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w"/>
-<meta property="og:image:width" content="433"/>
-<meta property="og:image:height" content="577"/>
-<meta property="product:price:amount" content="25000.00"/>
-<meta property="product:price:currency" content="IDR"/>
-<meta property="product:availability" content="instock"/>
-<meta property="product:original_price:amount" content="250000.00"/>
-<meta property="product:original_price:currency" content="IDR"/>
-<meta property="product:sale_price:amount" content="25000.00"/>
-<meta property="product:sale_price:currency" content="IDR"/>
-<meta itemprop="name" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
-<meta itemprop="url" content="<?php echo $urlPath ?>"/>
-<meta itemprop="description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
-<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w"/>
-<link rel="image_src" href="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w" />
-<meta itemprop="image" content="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w"/>
-<meta name="twitter:title" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
-<meta name="twitter:image" content="http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w"/>
-<meta name="twitter:url" content="<?php echo $urlPath ?>"/>
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
-<meta name="description" content="Kami adalah daftar agen slot server thailand yang sangat gampang menang 
-melalui versi android karena sudah terbukti banyak member login dari 
-perangkat tersebut." />
-<link rel="preconnect" href="https://images.squarespace-cdn.com">
-<script type="text/javascript" src="//use.typekit.net/ik/buPVrJZ_tQVowomB1U4JNTRam0hCC325p5R9qWQaDQJfec9JXnX1IyvhF2jtFRZLFRm8ZRFcZQwtZRFcjAwXZQJUjhwUwDJae6MKfAZuiYmkjPu3ifG4fVN9IMMjgPMfH6qJ6m9bMg6YJMJ7fbKMmsMMeMv6MKG4fJ4mIMMjIPMfqMeL6dhzg6.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300">
-<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
-<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
-<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-998ba9c877c3ed05b5d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-998ba9c877c3ed05b5d0-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-ad3a16dda3a9dce71609-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-ad3a16dda3a9dce71609-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-c4a19a1bee8d52392f14-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-c4a19a1bee8d52392f14-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-a3e15cd00681c0efbe35-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-a3e15cd00681c0efbe35-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-bde4185b38b1269f0424-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-bde4185b38b1269f0424-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-d7a4c9a0e447ddad20bb-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-fc61ed8b9fca881a6e73-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-c44ebbd3b7eb1cedd622-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-5040a6d4c8c7c01f8f4f-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-1ee031ee221945ef2118-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-063b10456674b891919a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-f57bd08d1891ed39d44c-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-e766a36faffdc8bdd83b-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-297b5d9350e8fbc58e68-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-cbd2b2e3e906abeaaf9f-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-adf1c85fb49ad965f47e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-e78ca22a0682ba3fe03b-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-32d2a007bcef37fc8297-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-dbc53c5eff6116a03487-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-16920837cddfc3192d4d-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fa5de38c35992b5f6b77-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a634ab0266cfd49e75db-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-4b72876690e44afcefde-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5c05ded23c690a22ccc6-min.en-US.js"}},"pageType":50,"website":{"id":"65ef3fe38f3fac4e21cc1327","identifier":"link-slot-gacor-2024","websiteType":1,"contentModifiedOn":1710178542060,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"GACOR X500 SLOT","fullSiteTitle":"<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini","siteDescription":"","logoImageId":"65ef411354759b42e03cdc97","shareButtonOptions":{"6":true,"1":true,"4":true,"8":true,"7":true,"3":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/4a4905b5-76b8-4843-9f1a-ab531cfc88b6/SLOT-GACOR-10-03-2024.png","authenticUrl":"https://link-slot-gacor-2024.squarespace.com","internalUrl":"https://link-slot-gacor-2024.squarespace.com","baseUrl":"https://link-slot-gacor-2024.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":60,"addedOn":1710178275493,"profileUrl":"http://facebook.com/squarespace","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":64,"addedOn":1710178275496,"profileUrl":"http://instagram.com/squarespace","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"fedde0e3b46e0d84af52744a98be428975842987996636c0ebba5f5c25574474","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"65ef3fe38f3fac4e21cc132a","websiteId":"65ef3fe38f3fac4e21cc1327","subjects":[],"country":"ID","state":"JK","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store","id":"65ef3ffbfae6634c27bc52fe","fullUrl":"/store","type":13,"permissionType":1},"item":{"title":"<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini","id":"65ef3ffef51d74240ea3ffcc","fullUrl":"/store/p/daftar-agen-slot-server-thailand-yang-gampang-menang-versi-android","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"76px","header-mobile-logo-max-height":"30px","header-vert-padding":"2.5vw","header-width":"Inset","maxPageWidth":"2560px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"5px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"true","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["commerce_order_status_access","send_local_pickup_ready_email","collection_typename_switching","background_art_onboarding","is_feature_gate_refresh_enabled","accounting_orders_sync","campaigns_global_uc_ab","pdp_product_add_ons_visitor_site","commsplat_forms_visitor_profile","digital_products_auto_monetization","google_consent_v2","campaigns_discount_section_in_blasts","async_copy_collection","marketing_landing_page","member_areas_feature","campaigns_new_image_layout_picker","commerce_site_visitor_metrics","commerce_etsy_shipping_import","visitor_react_forms","nested_categories_migration_enabled","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_product_import","campaigns_import_discounts","nested_categories","website_fonts","customer_accounts_email_verification","new_stacked_index","override_block_styles","proposals_beta_in_circle_labs","campaigns_discount_section_in_automations","supports_versioned_template_assets","scripts_defer","fluid_engine","viewer-role-contributor-invites","rewrite_transactional_email_from_address","commerce_restock_notifications","customer_account_creation_recaptcha","campaigns_thumbnail_layout","toggle_preview_new_shortcut","commerce_subscription_renewal_notifications","commerce_checkout_website_updates_enabled","themes","unify_edit_mode_p2","commerce_clearpay","enable_css_variable_tweaks"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"demoCollections":[{"collectionId":"624b3c6ef157f1739f1c7977","deleted":false}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"d67c7175-bd68-4436-a5c1-f3160a7a85a0","sku":"SQ2078628","price":{"currencyCode":"IDR","value":25000000,"decimalValue":"250000.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":2500000,"decimalValue":"25000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":false,"quantity":20},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}}};</script><script type="application/ld+json">{"url":"https://link-slot-gacor-2024.squarespace.com","name":"GACOR X500 SLOT","description":"","image":"//images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/4a4905b5-76b8-4843-9f1a-ab531cfc88b6/SLOT-GACOR-10-03-2024.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini \u2014 GACOR X500 SLOT","image":"http://static1.squarespace.com/static/65ef3fe38f3fac4e21cc1327/65ef3ffbfae6634c27bc52fe/65ef3ffef51d74240ea3ffcc/1710178396920/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png?format=1500w","description":"<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand.","brand":"GACOR X500 SLOT","offers":{"price":25000.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ2078628","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/65ef3fe38f3fac4e21cc1327/2/5c5a519771c10ba3470d8101/65ef3fe38f3fac4e21cc1348/1504/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
-<!-- End of Squarespace Headers -->
+
+<!DOCTYPE html>
+<html amp lang="id-ID">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.static-src.com/siva/asset/11_2023/icon-16px.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.static-src.com/siva/asset/10_2023/icon-32px.png">
+    <link rel="icon" type="image/png" sizes="60x60" href="https://www.static-src.com/siva/asset/10_2023/icon-60px.png">
+    <link rel="icon" type="image/png" sizes="144x144" href="https://www.static-src.com/siva/asset/10_2023/icon-144px.png">
+    <link rel="apple-touch-icon" sizes="16x16" href="https://www.static-src.com/siva/asset/11_2023/icon-16px.png">
+    <link rel="apple-touch-icon" sizes="32x32" href="https://www.static-src.com/siva/asset/10_2023/icon-32px.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.static-src.com/siva/asset/10_2023/icon-60px.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.static-src.com/siva/asset/10_2023/icon-144px.png">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=7">
+
+    <meta property="og:title" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
+    <meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
+    <meta property="og:image" content="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"/>
+    <meta property="og:image:secure_url" content="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"/>
+    <meta property="og:url" content="<?php echo $urlPath ?>"/>
+    <meta property="og:site_name" content="<?php echo $BRANDS ?>"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:title" content="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"/>
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
+    <meta name="twitter:image" content="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"/>
+    <meta name="twitter:url" content="<?php echo $urlPath ?>"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@<?php echo $BRANDS ?>"/>
+    <meta name="twitter:creator" content="@<?php echo $BRANDS ?>"/>
+
+    <title><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</title>
+    <meta name="description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand.">
+    <meta name="robots" content="max-image-preview:large">
+    <meta name="theme-color" content="#0095DA">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="apple-itunes-app" content="app-id=1034231507">
+
+    <link rel="canonical" href="<?php echo $urlPath ?>"/>
+
+    <!-- AMP SCRIPT -start -->
+    <script async
+            src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-selector"
+            src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
+    <script async custom-element="amp-carousel"
+            src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
+    <script async custom-element="amp-image-lightbox"
+            src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
+    <script async custom-element="amp-social-share"
+            src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+    <script async custom-element="amp-analytics"
+            src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-install-serviceworker"
+            src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script>
+    <script async custom-element="amp-lightbox"
+            src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+    <script async custom-element="amp-list"
+            src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+    <script async custom-template="amp-mustache"
+            src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+    <script async custom-element="amp-iframe"
+            src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js" ></script>
+    <script async custom-element="amp-bind"
+            src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+
     
-      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1709918608987-LN9OYJLK9STD272VA0ZE/static.css">
-    
-  </head>
+    <!-- AMP SCRIPT -end -->
 
-  <body
-    id="item-65ef3ffef51d74240ea3ffcc"
-    class="
-      primary-button-style-outline primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header  tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65ef3ffbfae6634c27bc52fe mobile-style-available sqs-seven-one
-      
-        show-pdp-product-add-ons
-      
-      
-        
-          
-          
-        
-      
-    "
-    data-description="plp-mobile-editor-column"
-    tabindex="-1"
-  >
-    <div
-      id="siteWrapper"
-      class="clearfix site-wrapper"
-    >
-      
-        <div id="floatingCart" class="floating-cart hidden">
-          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
-            <span class="Cart-inner">
-              
+    <!-- AMP STYLESHEET -start -->
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-
-
-  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-</svg>
-
-              <div class="legacy-cart icon-cart-quantity">
-                <span class="sqs-cart-quantity">0</span>
-              </div>
-            </span>
-          </a>
-        </div>
-      
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <header
-    data-test="header"
-    id="header"
-    
-    class="
-      
-        
-          black
-        
-      
-      header theme-col--primary
-    "
-    data-controller="Header"
-    data-current-styles="{
-  &quot;layout&quot;: &quot;navRight&quot;,
-  &quot;action&quot;: {
-    &quot;buttonText&quot;: &quot;Get Started&quot;,
-    &quot;newWindow&quot;: false
-  },
-  &quot;showSocial&quot;: true,
-  &quot;socialOptions&quot;: {
-    &quot;socialBorderShape&quot;: &quot;none&quot;,
-    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-    &quot;socialBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-  &quot;cartStyle&quot;: &quot;cart&quot;,
-  &quot;cartText&quot;: &quot;Cart&quot;,
-  &quot;showEmptyCartState&quot;: true,
-  &quot;cartOptions&quot;: {
-    &quot;iconType&quot;: &quot;solid-7&quot;,
-    &quot;cartBorderShape&quot;: &quot;none&quot;,
-    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-    &quot;cartBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;showButton&quot;: false,
-  &quot;showCart&quot;: false,
-  &quot;showAccountLogin&quot;: true,
-  &quot;headerStyle&quot;: &quot;dynamic&quot;,
-  &quot;languagePicker&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;iconEnabled&quot;: false,
-    &quot;iconType&quot;: &quot;globe&quot;,
-    &quot;flagShape&quot;: &quot;shiny&quot;,
-    &quot;languageFlags&quot;: [ ]
-  },
-  &quot;mobileOptions&quot;: {
-    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-    &quot;menuIconOptions&quot;: {
-      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 1.0
-      }
-    }
-  },
-  &quot;dynamicOptions&quot;: {
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+    <style amp-custom>
+        .product-container {
+          margin: 16px 0;
+          border-radius: 16px;
+          background-color: #FFF;
+          padding: 20px 16px 16px 16px;
+          box-shadow: 0 0 16px -4px rgba(0, 0, 0, 0.12);
         }
-      }
-    }
-  },
-  &quot;solidOptions&quot;: {
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 100.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-container .title {
+          font-size: 18px;
+          margin-bottom: 18px;
         }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-list {
+          display: flex;
+          flex-wrap: nowrap;
+          overflow-x: auto;
+          padding: 6px;
+          justify-content: unset;
         }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;gradientOptions&quot;: {
-    &quot;gradientType&quot;: &quot;faded&quot;,
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 90.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-list::-webkit-scrollbar {
+          width: 0;
         }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-list .empty-placeholder {
+          display: none;
         }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;dropShadowOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blur&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    },
-    &quot;spread&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 0.0
-    },
-    &quot;distance&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;borderOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;position&quot;: &quot;allSides&quot;,
-    &quot;thickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 4.0
-    },
-    &quot;color&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;showPromotedElement&quot;: false,
-  &quot;buttonVariant&quot;: &quot;primary&quot;,
-  &quot;blurBackground&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blurRadius&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;headerOpacity&quot;: {
-    &quot;unit&quot;: &quot;%&quot;,
-    &quot;value&quot;: 100.0
-  }
-}"
-    data-section-id="header"
-    data-header-theme=""
-    data-menu-overlay-theme=""
-    data-header-style="dynamic"
-    data-language-picker="{
-  &quot;enabled&quot;: false,
-  &quot;iconEnabled&quot;: false,
-  &quot;iconType&quot;: &quot;globe&quot;,
-  &quot;flagShape&quot;: &quot;shiny&quot;,
-  &quot;languageFlags&quot;: [ ]
-}"
-    
-    data-first-focusable-element
-    tabindex="-1"
-    style="
-      
-        
-        
-          --headerBorderColor: hsla(var(--black-hsl), 1);
-        
-      
-      
-        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-      
-      
-        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
-      
-      
-        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-      
-      
-        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
-      
-    "
-  >
-    
-<div class="sqs-announcement-bar-dropzone"></div>
-
-    <div class="header-announcement-bar-wrapper">
-      
-      <a
-        href="#page"
-        class="header-skip-link sqs-button-element--primary"
-      >
-        Skip to Content
-      </a>
-      
-
-
-<style>
-    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-        .header-blur-background {
-            
-            
+        .product-list .product-card {
+          min-width: 160px;
+          max-width: 160px;
+          margin-right: 10px;
+          margin-bottom: 16px;
+          padding-bottom: 6px;
+          background-color: #FFF;
+          box-shadow: 0 1px 6px 0 rgba(0,0,0,.1);
+          border-radius: 16px;
         }
-    }
-</style>
-      <div
-        class="header-border"
-        data-header-style="dynamic"
-        data-header-usability-enabled="true"
-        data-header-border="false"
-        data-test="header-border"
-        style="
-
-
-
-
-
-
-  
-    border-width: 0px !important;
-  
-
-
-
-  
-
-
-
-"
-      ></div>
-      <div
-        class="header-dropshadow"
-        data-header-style="dynamic"
-        data-header-usability-enabled="true"
-        data-header-dropshadow="false"
-        data-test="header-dropshadow"
-        style="
-
-
-  
-"
-      ></div>
-      
-      
-
-      <div class='header-inner container--fluid
-        
-        
-        
-         header-mobile-layout-logo-left-nav-right
-        
-        
-        
-        
-        
-        
-         header-layout-nav-right
-        
-        
-        
-        
-        
-        
-        
-        
-        '
-        style="
-
-
-
-
-
-
-  
-    padding: 0;
-  
-
-
-
-"
-        data-test="header-inner"
-        >
-        <!-- Background -->
-        <div class="header-background theme-bg--primary"></div>
-
-        <div class="header-display-desktop" data-content-field="site-title">
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-          
-            
-            <!-- Social -->
-            
-              
-            
-          
-            
-            <!-- Title and nav wrapper -->
-            <div class="header-title-nav-wrapper">
-              
-
-              
-
-              
-                
-                <!-- Title -->
-                
-                  <div
-                    class="
-                      header-title
-                      
-                    "
-                    data-animation-role="header-element"
-                  >
-                    
-                      <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
-                        
-<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/4a4905b5-76b8-4843-9f1a-ab531cfc88b6/SLOT-GACOR-10-03-2024.png?format=1500w" alt="GACOR X500 SLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
-
-                        </a>
-                      </div>
-
-                    
-                    
-                  </div>
-                
-              
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="/store"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
-              
-            </div>
-          
-            
-            <!-- Actions -->
-            <div class="header-actions header-actions--right">
-              
-              
-                
-                  <div class="header-actions-action header-actions-action--social">
-                    
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                    
-                  </div>
-                
-              
-
-              
-
-            
-            
-
-              
-              <div class="showOnMobile">
-                
-              </div>
-
-              
-              <div class="showOnDesktop">
-                
-              </div>
-
-              
-            </div>
-          
-            
-
-
-<style>
-  .top-bun, 
-  .patty, 
-  .bottom-bun {
-    height: 1px;
-  }
-</style>
-
-<!-- Burger -->
-<div class="header-burger
-
-  menu-overlay-has-visible-non-navigation-items
-
-" data-animation-role="header-element">
-  <button class="header-burger-btn burger" data-test="header-burger">
-    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-    <div class="burger-box">
-      <div class="burger-inner header-menu-icon-doubleLineHamburger">
-        <div class="top-bun"></div>
-        <div class="patty"></div>
-        <div class="bottom-bun"></div>
-      </div>
-    </div>
-  </button>
-</div>
-
-          
-          
-          
-          
-          
-
-        </div>
-        <div class="header-display-mobile" data-content-field="site-title">
-          
-            
-            <!-- Social -->
-            
-              
-            
-          
-            
-            <!-- Title and nav wrapper -->
-            <div class="header-title-nav-wrapper">
-              
-
-              
-
-              
-                
-                <!-- Title -->
-                
-                  <div
-                    class="
-                      header-title
-                      
-                    "
-                    data-animation-role="header-element"
-                  >
-                    
-                      <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element">
-                        
-<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/4a4905b5-76b8-4843-9f1a-ab531cfc88b6/SLOT-GACOR-10-03-2024.png?format=1500w" alt="GACOR X500 SLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
-
-                        </a>
-                      </div>
-
-                    
-                    
-                  </div>
-                
-              
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="/store"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
-              
-            </div>
-          
-            
-            <!-- Actions -->
-            <div class="header-actions header-actions--right">
-              
-              
-                
-                  <div class="header-actions-action header-actions-action--social">
-                    
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                    
-                  </div>
-                
-              
-
-              
-
-            
-            
-
-              
-              <div class="showOnMobile">
-                
-              </div>
-
-              
-              <div class="showOnDesktop">
-                
-              </div>
-
-              
-            </div>
-          
-            
-
-
-<style>
-  .top-bun, 
-  .patty, 
-  .bottom-bun {
-    height: 1px;
-  }
-</style>
-
-<!-- Burger -->
-<div class="header-burger
-
-  menu-overlay-has-visible-non-navigation-items
-
-" data-animation-role="header-element">
-  <button class="header-burger-btn burger" data-test="header-burger">
-    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-    <div class="burger-box">
-      <div class="burger-inner header-menu-icon-doubleLineHamburger">
-        <div class="top-bun"></div>
-        <div class="patty"></div>
-        <div class="bottom-bun"></div>
-      </div>
-    </div>
-  </button>
-</div>
-
-          
-          
-          
-          
-          
-        </div>
-      </div>
-    </div>
-    <!-- (Mobile) Menu Navigation -->
-    <div class="header-menu header-menu--folder-list
-      
-      
-      
-      
-      
-      "
-      data-current-styles="{
-  &quot;layout&quot;: &quot;navRight&quot;,
-  &quot;action&quot;: {
-    &quot;buttonText&quot;: &quot;Get Started&quot;,
-    &quot;newWindow&quot;: false
-  },
-  &quot;showSocial&quot;: true,
-  &quot;socialOptions&quot;: {
-    &quot;socialBorderShape&quot;: &quot;none&quot;,
-    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-    &quot;socialBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-  &quot;cartStyle&quot;: &quot;cart&quot;,
-  &quot;cartText&quot;: &quot;Cart&quot;,
-  &quot;showEmptyCartState&quot;: true,
-  &quot;cartOptions&quot;: {
-    &quot;iconType&quot;: &quot;solid-7&quot;,
-    &quot;cartBorderShape&quot;: &quot;none&quot;,
-    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-    &quot;cartBorderThickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 1.0
-    }
-  },
-  &quot;showButton&quot;: false,
-  &quot;showCart&quot;: false,
-  &quot;showAccountLogin&quot;: true,
-  &quot;headerStyle&quot;: &quot;dynamic&quot;,
-  &quot;languagePicker&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;iconEnabled&quot;: false,
-    &quot;iconType&quot;: &quot;globe&quot;,
-    &quot;flagShape&quot;: &quot;shiny&quot;,
-    &quot;languageFlags&quot;: [ ]
-  },
-  &quot;mobileOptions&quot;: {
-    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-    &quot;menuIconOptions&quot;: {
-      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 1.0
-      }
-    }
-  },
-  &quot;dynamicOptions&quot;: {
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-card__image {
+          width: 160px;
+          height: 160px;
+          position: relative;
         }
-      }
-    }
-  },
-  &quot;solidOptions&quot;: {
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 100.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-card__image .main {
+          width: 160px;
+          height: 160px;
+          object-fit: contain;
+          border-radius: 16px 16px 0 0;
         }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-card__image .promo-badge {
+          left: 0;
+          bottom: 0;
+          position: absolute;
+          max-width: 60%;
+          max-height: 24px;
         }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;gradientOptions&quot;: {
-    &quot;gradientType&quot;: &quot;faded&quot;,
-    &quot;headerOpacity&quot;: {
-      &quot;unit&quot;: &quot;%&quot;,
-      &quot;value&quot;: 90.0
-    },
-    &quot;border&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;position&quot;: &quot;allSides&quot;,
-      &quot;thickness&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 4.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-card__description {
+          padding: 0 6px;
+          margin-top: 4px;
         }
-      }
-    },
-    &quot;dropShadow&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blur&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 30.0
-      },
-      &quot;spread&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;distance&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 0.0
-      },
-      &quot;color&quot;: {
-        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-        &quot;sitePaletteColor&quot;: {
-          &quot;colorName&quot;: &quot;black&quot;,
-          &quot;alphaModifier&quot;: 1.0
+        .product-card__description__promo-end-time {
+          color: #FF4646;
+          font-size: 11px;
         }
-      }
-    },
-    &quot;blurBackground&quot;: {
-      &quot;enabled&quot;: false,
-      &quot;blurRadius&quot;: {
-        &quot;unit&quot;: &quot;px&quot;,
-        &quot;value&quot;: 12.0
-      }
-    },
-    &quot;backgroundColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;white&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    },
-    &quot;navigationColor&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;dropShadowOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blur&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    },
-    &quot;spread&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 0.0
-    },
-    &quot;distance&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;borderOptions&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;position&quot;: &quot;allSides&quot;,
-    &quot;thickness&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 4.0
-    },
-    &quot;color&quot;: {
-      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-      &quot;sitePaletteColor&quot;: {
-        &quot;colorName&quot;: &quot;black&quot;,
-        &quot;alphaModifier&quot;: 1.0
-      }
-    }
-  },
-  &quot;showPromotedElement&quot;: false,
-  &quot;buttonVariant&quot;: &quot;primary&quot;,
-  &quot;blurBackground&quot;: {
-    &quot;enabled&quot;: false,
-    &quot;blurRadius&quot;: {
-      &quot;unit&quot;: &quot;px&quot;,
-      &quot;value&quot;: 12.0
-    }
-  },
-  &quot;headerOpacity&quot;: {
-    &quot;unit&quot;: &quot;%&quot;,
-    &quot;value&quot;: 100.0
-  }
-}"
-      data-section-id="overlay-nav"
-      data-show-account-login="true"
-      data-test="header-menu">
-      <div class="header-menu-bg theme-bg--primary"></div>
-      <div class="header-menu-nav">
-        <nav class="header-menu-nav-list">
-          <div data-folder="root" class="header-menu-nav-folder">
-            <div class="header-menu-nav-folder-content">
-              <!-- Menu Navigation -->
-<div class="header-menu-nav-wrapper">
-  
-    
-      
-        
-          
-            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-              <a
-                href="/store"
-                
-                  aria-current="page"
-                
-              >
-                <div class="header-menu-nav-item-content">
-                  Store
-                </div>
-              </a>
-            </div>
-          
-        
-      
-    
-  
-</div>
-
-              
-            </div>
-            
-              <div class="header-menu-actions social-accounts">
-                
-                  
-                    <div class="header-menu-actions-action header-menu-actions-action--social mobile">
-                      <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    </div>
-                  
-                    <div class="header-menu-actions-action header-menu-actions-action--social mobile">
-                      <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    </div>
-                  
-                
-              </div>
-            
-            
-            
-          </div>
-        </nav>
-      </div>
-    </div>
-  </header>
-
-
-
-
-      <main id="page" class="container" role="main">
-        
-          
-<article class="sections" id="sections" data-page-sections="65ef3ffbfae6634c27bc52ff">
-  
-  
-    
-    
-
-
-  
-
-
-<section
-  data-test="page-section"
-  
-  data-section-theme="black"
-  class='page-section 
-    
-      content-collection
-      full-bleed-section
-      collection-type-products
-    
-    background-width--full-bleed
-    
-      section-height--medium
-    
-    
-      content-width--wide
-    
-    horizontal-alignment--center
-    vertical-alignment--middle
-    
-      
-    
-    
-    black'
-  
-  data-section-id="65ef40f4a2917a28582c71b0"
-  
-  data-controller="SectionWrapperController"
-  data-current-styles="{
-  &quot;imageOverlayOpacity&quot;: 0.15,
-  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-  &quot;customSectionHeight&quot;: 10,
-  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-  &quot;customContentWidth&quot;: 50,
-  &quot;backgroundColor&quot;: &quot;&quot;,
-  &quot;sectionTheme&quot;: &quot;black&quot;,
-  &quot;sectionAnimation&quot;: &quot;none&quot;,
-  &quot;backgroundMode&quot;: &quot;image&quot;
-}"
-  data-current-context="{
-  &quot;video&quot;: {
-    &quot;playbackSpeed&quot;: 0.5,
-    &quot;filter&quot;: 1,
-    &quot;filterStrength&quot;: 0,
-    &quot;zoom&quot;: 0,
-    &quot;videoSourceProvider&quot;: &quot;none&quot;
-  },
-  &quot;backgroundImageId&quot;: null,
-  &quot;backgroundMediaEffect&quot;: null,
-  &quot;divider&quot;: null,
-  &quot;typeName&quot;: &quot;products&quot;
-}"
-  data-animation="none"
-  
-   
-  
-    
-  
-  
->
-  <div
-    class="section-border" 
-    
-  >
-    <div class="section-background">
-    
-      
-    
-    </div>
-  </div>
-  <div
-    class='content-wrapper'
-    style='
-      
-      
-    '
-  >
-    <div
-      class="content"
-      
-    >
-      
-      
-      
-      
-      
-      
-      
-<section 
-  id="pdp"
-  class="
-    products
-    collection-content-wrapper
-    product-layout-side-by-side
-  "
->
-	
-
-
-
-  
-  
-  
-
-  <article class="ProductItem hentry author-big-boss post-type-store-item on-sale" data-item-id="65ef3ffef51d74240ea3ffcc">
-
-    <nav class="ProductItem-nav">
-  <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-    <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
-    <span class="ProductItem-nav-breadcrumb-separator"></span>
-    <a href="/store/p/daftar-agen-slot-server-thailand-yang-gampang-menang-versi-android" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</a>
-  </div>
-  
-  
-  
-</nav>
-
-
-    <section class="ProductItem-summary" data-controller="ProductGallery">
-      <section
-  aria-label="Gallery"
-  class="ProductItem-gallery"
-  data-product-gallery="container"
->
-  
-  
-    <div
-      class="ProductItem-gallery-slides"
-      data-animation-role="image"
-      data-product-gallery="slides"
-    >
-      
-      
-        
-          <div
-            class="ProductItem-gallery-slides-item"
-            data-slide-index="1"
-            data-image-id=65ef40283cd9406cdd5688de
-            data-controller="ImageZoom"
-            data-slide-url="9no7jdbcqf3ec4mh4f9rd0vz7ypzpj"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              aria-describedby="ProductItem-gallery-slides-item-1-index-65ef40283cd9406cdd5688de"
-              class="ProductItem-gallery-slides-item-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image-dimensions="433x577" data-image-focal-point="0.5,0.5" alt="30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" 
-              elementtiming="nbf-products-gallery"
-            />
-            <span
-              id="ProductItem-gallery-slides-item-1-index-65ef40283cd9406cdd5688de"
-              style="display: none;"
-            >
-              Image 1 of 
-            </span>
-            <div class="product-image-zoom-duplicate" aria-hidden="true">
-              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image-dimensions="433x577" data-image-focal-point="0.5,0.5" alt="30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png"  elementtiming="nbf-products-gallery-zoom" />
-            </div>
-          </div>
-        
-        
-      
-      <div
-        class="gallery-lightbox-outer-wrapper"
-        data-use-image-loader="true"
-        data-controller="Lightbox"
-      >
-        <div class="gallery-lightbox ">
-  <div class="gallery-lightbox-background"></div>
-
-<div class="gallery-lightbox-header">
-  <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
-    <div class="gallery-lightbox-close-btn-icon">
-      <svg viewBox="0 0 40 40">
-        <path d="M4.3,35.7L35.7,4.3"/>
-        <path d="M4.3,4.3l31.4,31.4"/>
-      </svg>
-    </div>
-  </button>
-</div>
-
-
-  <div class="gallery-lightbox-wrapper">
-    <div class="gallery-lightbox-list">
-      
-      <figure class="gallery-lightbox-item" data-slide-url="9no7jdbcqf3ec4mh4f9rd0vz7ypzpj">
-        <div class="gallery-lightbox-item-wrapper">
-          <div class="gallery-lightbox-item-src">
-            <div class="gallery-lightbox-item-img content-fit">
-              <img data-src="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/1710178345749-F4VFKMM5R5S9GF2KLAIF/30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png" data-image-dimensions="433x577" data-image-focal-point="0.5,0.5" alt="30d3885dc2dbafd8e06981ff6d572da6-removebg-preview.png"  data-load="false" elementtiming="nbf-product-lightbox" />
-            </div>
-          </div>
-        </div>
-      </figure>
-      
-    </div>
-
-    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
-  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
-    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
-      <div class="gallery-lightbox-control-btn-icon">
-        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
-          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
-        </svg>
-      </div>
-    </button>
-  </div>
-  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
-    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
-      <div class="gallery-lightbox-control-btn-icon">
-        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
-          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
-        </svg>
-      </div>
-    </button>
-  </div>
-</div>
-
-  </div>
-</div>
-      </div>
-    </div>
-  
-</section>
-
-      <section
-  class="
-    product-details
-    ProductItem-details
-  "
-  data-test="pdp-details"
->
-  <h1
-    class="ProductItem-details-title"
-    data-content-field="title"
-    data-test="pdp-title"
-  >
-    <?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini
-  </h1>
-  <div
-    data-controller="ProductItemVariants,ProductCartButton" 
-    class="ProductItem-details-checkout"
-  >
-    
-    <div
-      class="ProductItem-product-price"
-      data-animation-role="content"
-    >
-      
-
-
-<div class="product-price">
-<span class="visually-hidden v6-visually-hidden">Sale Price:</span>IDR 25,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">IDR 250,000.00</span>
-
-</div>
-
-      
-        
-<div data-afterpay="true" data-current-context="{
-  &quot;65ef3ffef51d74240ea3ffcc&quot;: {
-    &quot;scarcityEnabled&quot;: false,
-    &quot;scarcityShownByDefault&quot;: false,
-    &quot;afterPayAvailable&quot;: false,
-    &quot;klarnaAvailable&quot;: false,
-    &quot;shopperLanguage&quot;: &quot;en&quot;,
-    &quot;afterPayMin&quot;: 0,
-    &quot;afterPayMax&quot;: 0,
-    &quot;klarnaMin&quot;: 0,
-    &quot;klarnaMax&quot;: 0,
-    &quot;mailingListSignUpEnabled&quot;: false,
-    &quot;mailingListOptInByDefault&quot;: false
-  }
-}"></div>
-<div class="pdp-overlay"></div>
-      
-
-      
-      <div class="product-mark sale">sale</div>
-    </div>
-    
-      <div
-        class="ProductItem-details-excerpt"
-        data-content-field="excerpt"
-      >
-        <p class="" style="white-space:pre-wrap;"><?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand.</p>
-      </div>
-    
-    
-    
-
-
-<div class="product-quantity-input" data-item-id="65ef3ffef51d74240ea3ffcc" data-animation-role="content">
-  <div class="quantity-label">Quantity:</div>
-  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
-</div>
-    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="65ef3ffbfae6634c27bc52fe" data-item-id="65ef3ffef51d74240ea3ffcc" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
-    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
-  </div>
-</div>
-    
-  </div>
-</section>
-
-    </section>
-
-    
-      <section class="ProductItem-additional">
-        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" id="item-65ef3ffef51d74240ea3ffcc"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1710178280239_2606"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div
-        class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-site-default
-          individual-animation-site-default
-          individual-text-animation-site-default
-        "
-        data-test="image-block-inline-outer-wrapper"
-    >
-
-      
-
-      
-        <figure
-            class="
-              sqs-block-image-figure
-              intrinsic
-            "
-            style="max-width:600px;"
-        >
-          
-        
-        
-
-        
-          <a
-              class="
-                sqs-block-image-link
-                
-          
-        
-              "
-              href="https://9bloc.app/xtcgacor"
-              target="_blank"
-          >
-            
-          <div
-              
-              
-              class="image-block-wrapper"
-              data-animation-role="image"
-              
-  
-
-          >
-            <div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:26.499998092651367%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              "
-              >
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png" data-image="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png" data-image-dimensions="600x159" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png" width="600" height="159" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/3036c226-4725-4246-b1f8-31cddc5e6ec0/daftar.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          </a>
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div></div></div>
-      </section>
-    
-
-    
-    
-
-    
-
-  </article>
-
-
-
-</section>
-    </div>
-  
-  </div>
-  
-</section>
-
-  
-</article>
-
-
-          
-
-          
-          
-        
-      </main>
-      <script type="text/javascript">
-        const firstSection = document.querySelector('.page-section');
-        const header = document.querySelector('.header');
-        const mobileOverlayNav = document.querySelector('.header-menu');
-        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
-        const headerHeight = header ? header.getBoundingClientRect().height : 0;
-        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
-        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
-        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
-
-        if (firstSection) {
-          firstSection.style.paddingTop = headerHeight + 'px';
+        .product-card__description__name span {
+          color: #333;
+          overflow: hidden;
+          word-break: break-word;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
         }
-        if (sectionBackground && isLayoutEngineSection) {
-          if (isFirstSectionInset) {
-            sectionBackground.style.top = headerHeight + 'px';
-          } else {
-            sectionBackground.style.top = '';
+        .product-card__description__price {
+          margin: 3px 0;
+        }
+        .product-card__description__price-display {
+          color: #333;
+          font-size: 15px;
+          font-weight: 600;
+        }
+        .product-card__description__price-promo {
+          margin-top: -4px;
+        }
+        .product-card__description__price-promo .strike-price {
+          font-size: 12px;
+          text-decoration: line-through;
+          color: rgba(25, 34, 42, .4);
+        }
+        .product-card__description__price-promo .discount {
+          color: #E93C3C;
+          font-size: 11px;
+          font-weight: 600;
+          padding: 1px 4px;
+          margin-left: 2px;
+          border-radius: 8px;
+          background-color: #FFE6E6;
+        }
+        .product-card__description__merchant-info {
+          display: flex;
+          align-items: center;
+        }
+        .product-card__description__merchant-info__location-text {
+          color: #777;
+          font-size: 12px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+        }
+        .product-card__description__rating-review {
+          display: flex;
+          align-items: center;
+          margin-top: 2px;
+        }
+        .product-card__description__rating-review-left,
+        .product-card__description__rating-review-right {
+          font-size: 12px;
+          color: #777;
+          display: flex;
+          align-items: center;
+        }
+        .product-card__description__rating-review-left .absolute-rating {
+          margin-left: 4px;
+        }
+        .product-card__description__rating-review-left .review-count {
+          color: #999;
+          margin-left: 2px;
+        }
+        .product-card__description__tags {
+          margin-top: 2px;
+        }
+        .infinite-recommendation .product-list {
+          flex-wrap: wrap;
+          justify-content: space-between;
+        }
+        .infinite-recommendation .product-list .product-card {
+          width: 100%;
+          margin-right: 0;
+          min-width: unset;
+          max-width: unset;
+        }
+        .infinite-recommendation .product-card__image {
+          width: 100%;
+        }
+        .infinite-recommendation .product-card__image .main {
+          width: 100%;
+        }
+        .divider {
+          width: 1px;
+          height: 12px;
+          margin: 0px 5px;
+          background: #999;
+        }
+        .logo-size {
+          min-width: 16px;
+          max-width: 16px;
+          min-height: 16px;
+          max-height: 16px;
+        }
+        .mr-3 {
+          margin-right: 3px;
+        }
+        @media screen and (min-width: 320px) {
+          .infinite-recommendation .product-list .product-card {
+            width: 48%;
           }
         }
-        //# sourceURL=headerPositioning.js
-      </script>
+        @media screen and (min-width: 480px) {
+          .product-list .product-card {
+            min-width: 180px;
+            max-width: 180px;
+          }
+          .product-card__image {
+            width: 180px;
+            height: 180px;
+          }
+          .product-card__image .main {
+            width: 180px;
+            height: 180px;
+          }
+          .product-list .empty-placeholder {
+            width: 32%;
+            display: flex;
+            min-width: unset;
+            max-width: unset;
+          }
+          .product-card__description__promo-end-time {
+            font-size: 12px;
+            margin-bottom: 6px;
+          }
+          .infinite-recommendation .product-list .product-card {
+            width: 32%;
+          }
+        }
 
-      
-        <footer class="sections" id="footer-sections" data-footer-sections>
-  
-  
-  
-  
-  
-  
-</footer>
+        @media screen and (min-width: 720px) {
+          .product-list .product-card {
+            min-width: 200px;
+            max-width: 200px;
+          }
+          .product-card__image {
+            width: 200px;
+            height: 200px;
+          }
+          .product-card__image .main {
+            width: 200px;
+            height: 200px;
+          }
+          .product-list .empty-placeholder {
+            width: 24%;
+          }
+          .infinite-recommendation .product-list .product-card {
+            width: 24%;
+          }
+        }
 
-      
+        @font-face {
+            font-family: 'effra';
+            src: url('https://www.static-src.com/fonts/1.0.0/effra/effra-regular.woff2') format('woff2'),
+            url('https://www.static-src.com/fonts/1.0.0/effra/effra-regular.ttf') format('truetype');
+        }
+        :root {
+            --size-s :  8px;
+            --size-m : 16px;
+            --size-l : 32px;
+            --size-xl: 48px;
+            --shadow: 0 0 16px -4px rgba(0, 0, 0, 0.12);
+            --black-high: rgba(0,0,0,.87);
+            --black-medium: rgba(0,0,0,.6);
+            --black-low: rgba(0,0,0,.38);
+            --color-danger: #ed1c24;
+            --color-primary: #f37021;
+            --color-secondary: #0095da;
+            --arrow: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggZmlsbD0iIzAwOTVkYSIgZD0iTTE0LjggMTcuMmMtLjIgMC0uNC0uMS0uNi0uMmwtNS42LTQuMmMtLjMtLjItLjQtLjUtLjQtLjhzLjEtLjYuNC0uOEwxNC4yIDdhMS4wOCAxLjA4IDAgMCAxIDEuNC4yIDEuMDggMS4wOCAwIDAgMS0uMiAxLjRMMTAuOSAxMmw0LjUgMy40YTEuMDggMS4wOCAwIDAgMSAuMiAxLjRjLS4yLjMtLjUuNC0uOC40eiIvPjwvc3ZnPg==");
+            --arrow-2: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iIzg1ODU4NSIgZD0iTTguNzY2IDYuMzZhMSAxIDAgMDEtLjAzNyAxLjMyMmwtLjA5MS4wODZMNC43NiAxMWgxMS4yMzhhMSAxIDAgMDEuMTE2IDEuOTkzbC0uMTE2LjAwN0g0Ljc2bDMuODc3IDMuMjMyYTEgMSAwIDAxLTEuMTc5IDEuNjExbC0uMTAyLS4wNzUtNi4wMzgtNS4wMzMtLjEwOC0uMTE3LS4wNTctLjA4LS4wNzMtLjEzOC0uMDQ2LS4xMjctLjAxNy0uMDY5TDEgMTIuMDg3di0uMTU4bC4wMTYtLjEyLjAyNC0uMDk3LjAzMy0uMDk0LjA2MS0uMTI0LjA5NS0uMTM0LjEwNi0uMTEgNi4wMjItNS4wMThhMSAxIDAgMDExLjQwOS4xMjh6Ii8+PC9zdmc+");
+            /* --star: url("https://www.static-src.com/frontend/product-detail/static/img/ic-star.3e5a6039.svg"); */
+
+            --star: url("https://www.static-src.com/frontend/product-detail/static/img/ic-star.3e5a6039.svg");
+            --bag: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxkZWZzPjxwYXRoIGlkPSJhIiBkPSJNMTkuMzM5IDIuMDA4bC0xNSAxLjZjLS45LjEtMS41LjktMS4zIDEuOCAxLjIgNS41LjUgMTEuMSAwIDEzLjktLjIuOS41IDEuNyAxLjQgMS43aDE1Yy45IDAgMS42LS44IDEuNS0xLjctMS01LjctLjQtMTIuNC4xLTE1LjYuMS0xLS43LTEuOC0xLjctMS43em0tMTEuNCA0Yy42IDAgMSAuNCAxIDFzLS40IDEtMSAxLTEtLjQtMS0xIC40LTEgMS0xem00IDkuMmMtMy44IDAtNC44LTMuMS00LjgtNC44IDAtLjQuMy0uOC44LS44LjQgMCAuNy4zLjguNyAwIC4zLjEgMy4zIDMuMiAzLjNzMy4yLTIuOSAzLjItMy4zYzAtLjQuMy0uNy44LS43LjQgMCAuNy4zLjcuNy4xIDEuOC0uOSA0LjktNC43IDQuOXptNC03LjJjLS42IDAtMS0uNC0xLTFzLjQtMSAxLTEgMSAuNCAxIDEtLjQgMS0xIDF6Ii8+PC9kZWZzPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PG1hc2sgaWQ9ImIiIGZpbGw9IiNmZmYiPjx1c2UgeGxpbms6aHJlZj0iI2EiLz48L21hc2s+PGcgZmlsbD0iIzg1ODU4NSIgbWFzaz0idXJsKCNiKSI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPjwvZz48L2c+PC9zdmc+");
+            --share: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iIzg1ODU4NSIgZD0iTTE4LjMgM2EyLjcgMi43IDAgMTEtMS42MjUgNC44NTZsLTguMjg5IDMuODY4YTIuOCAyLjggMCAwMS0uMDE0LjY2N2w4LjAxMiA0LjAwN2EyLjcgMi43IDAgMTEtLjc2MiAxLjU1NGwtOC4wMzctNC4wMTlhMi43IDIuNyAwIDExLjA1MS0zLjgxNWw4LjA0Ni0zLjc1NEEyLjcgMi43IDAgMDExOC4zIDN6Ii8+PC9zdmc+");
+            /* --love: url("data:image/svg+xml;charset=UTF-8,"); */
+
+            --search: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxkZWZzPjxwYXRoIGlkPSJhIiBkPSJNOC41IDBDMTMuMiAwIDE3IDMuOCAxNyA4LjVjMCAxLjk5My0uNjgzIDMuODI0LTEuODI4IDUuMjcyTDE5LjcgMTguM2MuNC40LjQgMSAwIDEuNC0uMi4yLS40LjMtLjcuMy0uMyAwLS41LS4xLS43LS4zbC00LjUyOC00LjUyOEMxMi4zMjQgMTYuMzE3IDEwLjQ5MiAxNyA4LjUgMTcgMy44IDE3IDAgMTMuMiAwIDguNVMzLjggMCA4LjUgMHptMCAyLjFDNSAyLjEgMi4xIDUgMi4xIDguNWMwIDMuNSAyLjkgNi40IDYuNCA2LjQgMy41IDAgNi40LTIuOSA2LjQtNi40IDAtMy41LTIuOS02LjQtNi40LTYuNHoiLz48L2RlZnM+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyIDIpIj48bWFzayBpZD0iYiIgZmlsbD0iI2ZmZiI+PHVzZSB4bGluazpocmVmPSIjYSIvPjwvbWFzaz48dXNlIGZpbGw9IiM4NTg1ODUiIHhsaW5rOmhyZWY9IiNhIi8+PHBhdGggZmlsbD0iIzg1ODU4NSIgZD0iTS0yLTJoMjR2MjRILTJ6IiBtYXNrPSJ1cmwoI2IpIi8+PC9nPjwvc3ZnPg==");
+            --tukar-tambah: url("https://www.static-src.com/frontend/product-detail/static/img/logo-tuker-tambah.ecf67979.svg")
+        }
+        html {
+            box-sizing: border-box;
+            font-size: 62.5%;
+            height: 100%;
+            scroll-behavior: smooth;
+        }
+        body {
+            font: 1.6rem/2.1rem effra, san-serif;
+            color: var(--black-high);
+            background-color: #f9f9f9;
+        }
+        figure {margin: 0;}
+        h3 {
+            margin: 0;
+            line-height: 2.6rem;
+        }
+        a {
+            color: var(--color-secondary);
+            text-decoration: none;
+        }
+        ul {
+            margin: 0;
+            padding: 0 20px;
+        }
+        small {
+            font-size: 1.2rem;
+            line-height: 1.6rem;
+            color: var(--black-low);
+        }
+
+        /* header[ */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            width: calc(100% - 24px);
+            padding: 12px;
+            margin-bottom: -56px;
+            position: relative;
+            z-index: 99;
+        }
+        .header__left, .header__right {
+            display: flex;
+        }
+        .header__left {
+            justify-content: space-between;
+            width: 100%;
+        }
+        .header__left__backbtn {
+            background: var(--arrow-2) 7px center no-repeat;
+        }
+        .header__left__searchbtn {
+            background: var(--search) center center no-repeat;
+        }
+        .header__right__cartbtn {
+            background: var(--bag) center center no-repeat;
+            margin: 0 10px;
+        }
+        /*.header__right__sharebtn {*/
+        /*    background: var(--share) center center no-repeat;*/
+        /*}*/
+        .header__left__backbtn, .header__left__searchbtn, .header__right__cartbtn, .header__right__sharebtn {
+            background-color: rgba(255, 255, 255, 0.8);
+            width: var(--size-l);
+            height: var(--size-l);
+            border-radius: 50%;
+            content: "";
+            display: block;
+        }
+        amp-social-share[type='system'] {
+            background: var(--share) center center no-repeat;
+            background-color: rgba(255, 255, 255, 0.8);
+            width: var(--size-l);
+            height: var(--size-l);
+        }
+        /* header ] */
+
+        /* atomic class [ */
+        .gap {margin: var(--size-m) var(--size-m) 0 var(--size-m)}
+        .pulltop {margin-top: calc(var(--size-l)*-1)}
+        .title {
+            margin-bottom: var(--size-s);
+        }
+        .link, .seo a, .paging a {
+            color: var(--color-secondary);
+            text-decoration: none;
+        }
+
+        .heading {
+            font-size: 1.8rem;
+            margin: 0 var(--size-s) var(--size-m) var(--size-m);
+        }
+        .tx-center {text-align: center;}
+        .b-flex {display: flex;}
+        .b-block {display: block;}
+        .c-lime {color: #8bc63f;}
+        .c-black-medium {color: var(--black-medium);}
+        .c-black-low {color: var(--black-low);}
+        /* atomic class ] */
+
+        /* carousel [ */
+        .carousel {position: relative;}
+        .slide {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 4px;
+            margin: 0 -16px;
+            flex-wrap: nowrap;
+            overflow: auto;;
+        }
+        .slide:before,.slide:after {
+            content: '';
+            padding: 4px;
+        }
+        .carousel-image {
+            position: relative;
+        }
+        .carousel-image .amp-carousel-button {
+            display: none
+        }
+        .carousel-dots {
+            position: absolute;
+            bottom: 20px;
+            left: 0;
+            right: 0;
+            text-align: center;
+        }
+        .carousel-dots span {
+            margin-left: 0;
+            display: inline-block;
+            height: 7.5px;
+            width: 7.5px;
+            background-color: #BDBDBD;
+            border-radius: 12px;
+            transition: all .3s;
+        }
+        #carouselDots.carousel-dots span {
+            margin-right: 4px;
+        }
+        amp-selector [option][selected] {
+            height: 12px;
+            width: 12px;
+            background-color: #0095DA;
+            outline: none;
+        }
+
+        amp-selector [option][selected] ~ span {
+            height: 6px;
+            width: 6px;
+        }
+
+        .carousel-dots > span.b-selected ~ span {
+            height: 6px;
+            width: 6px;
+        }
+        /* carousel ] */
+
+        /* card [ */
+        .card-small,.card-medium,.card-large {
+            box-shadow: var(--shadow);
+            background-color: white;
+        }
+        .card-small  {border-radius: var(--size-s);}
+        .card-medium {border-radius: var(--size-m);}
+        .card-large  {border-radius: var(--size-l);}
+        .card-medium, .card-large {padding: var(--size-m);}
+        .card-layer {
+            position: relative;
+            margin-top: calc(var(--size-l)*2*-1);
+        }
+        .card-layer:not(:last-child){
+            padding-bottom: calc(var(--size-l)*2.5);
+        }
+        /* card ] */
+
+        /* btn [ */
+        .btn {
+            color: white;
+            border: none;
+            text-decoration: none;
+            line-height: 1;
+        }
+        .btn-small {
+            border-radius: var(--size-s);
+            height: var(--size-m);
+            padding: var(--size-s) var(--size-m);
+        }
+        .btn-medium {
+            border-radius: var(--size-m);
+            height: var(--size-xl);
+            padding: var(--size-m);
+        }
+        .btn-large {}
+        .btn-primary {background-color: var(--color-primary);}
+        .btn-secondary {background-color: var(--color-secondary);}
+        /* btn ] */
+
+        /* product [ */
+        .product__item, .product__wedge {
+            flex: 1 156px;
+        }
+        .product__item {
+            margin: 4px;
+            border-radius: var(--size-s);
+            box-shadow: var(--shadow);
+            flex-grow: 0;
+        }
+        .product__img amp-img {
+            border-radius: var(--size-s) var(--size-s) 0 0;
+        }
+        .product__description {
+            padding: 8px;
+        }
+        .product__name {
+            color: var(--black-medium);
+            line-height: 1.6rem;
+            height: 3.2rem;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        .product__price {
+            margin: 4px 0;
+            width: 100%;
+        }
+        .product__price-after {
+            color: var(--color-primary);
+            font-weight: bold;
+        }
+        .product__price-before {
+            font-size: 1.2rem;
+            color: var(--black-low);
+            text-decoration: line-through;
+        }
+        .product__price-discount {
+            font-size: 1.2rem;
+            padding: 1px 4px;
+            color: #ed1c24;
+            margin-left: 4px;
+            border-radius: 8px;
+            background-color: #ffdee0;
+            line-height: 1.33;
+        }
+        .product__statistics {
+            display: flex;
+        }
+        .product__statistics-rating {
+            font-size: 1.4rem;
+            color: #0095da;
+            height: 24px;
+            cursor: pointer;
+        }
+        .product__statistics .divider {
+            font-size: 1.4rem;
+            margin: 0 8px;
+            color: rgba(0,0,0,.6)
+        }
+        .product-statistics__sold-seen {
+            color: rgba(0,0,0,.6);
+        }
+        .product__rating {
+            color: var(--black-high);
+            font-size: 1rem;
+            display: flex;
+        }
+        .product__offers {
+            -webkit-box-ordinal-group: 4;
+            -ms-flex-order: 3;
+            order: 3;
+            padding-top: 10px;
+            border-top: 1px solid #d6d6d6;
+            font-size: 1.4rem;
+        }
+        .product-offers__link {
+            width: 100%;
+            -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+            justify-content: space-between;
+            display: flex;
+            align-items: center;
+            color: #0095da;
+            text-decoration: none;
+            word-wrap: break-word;
+            cursor: pointer;
+        }
+        .pdp__info .product__img amp-img {
+            border-radius: 0;
+        }
+        .product-status {
+            position: absolute;
+            margin: -26px 0 0;
+        }
+        .product-status .item {
+            margin-right: 8px;
+            width: auto;
+            height: 20px;
+            padding: 0 8px;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            font-size: 12px;
+            line-height: 0;
+            letter-spacing: 0.8px;
+            text-decoration: none;
+            border-radius: 16px;
+            white-space: nowrap;
+            text-transform: capitalize;
+        }
+        .product-status .oos {
+            background-color: #e0e0e0;
+            color: rgba(0,0,0,0.38);
+        }
+        .product-status .coming-soon {
+            color: #fff;
+            background-color: #ff53b9;
+        }
+        .product__info .product__name {
+            font-size: 1.8rem;
+            color: inherit;
+            line-height: 2.4rem;
+            height: 5.2rem;
+        }
+        .product__info {
+            margin-top: 0px;
+            border-radius: 0;
+            padding: var(--size-m);
+        }
+        .product__name-container {
+          max-width: 85%;
+          overflow-wrap: break-word;
+        }
+        .product__info .product__price {line-height: 2.4rem;}
+        .product__info .product__price-after {font-size: 2.4rem;}
+        .product__info .product__price-before {font-size: 1.4rem;}
+
+        .product__varian {
+            background-color: #f1f1f1;
+            box-shadow: none;
+        }
+        .product__varian-thumb {display: flex;}
+        .product__varian-thumb amp-img {
+            min-width: 64px;
+            border-radius: var(--size-s);
+            border: #e0e0e0 2px solid;
+            margin: 2px;
+        }
+        .product__varian-thumb amp-img.active {
+            border-color: #41c3ff;
+        }
+        .attribute {
+            padding: 24px 16px 32px;
+            background-color: #fff;
+            position: relative;
+        }
+        .product__attribute {
+            overflow-x: auto;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            margin: 0 -16px;
+        }
+        .product__attribute-button {
+            -webkit-transition-duration: 300ms;
+            transition-duration: 300ms;
+            color: #0095da;
+            background-color: #fff;
+            height: 32px;
+            margin: 2px;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            border: #f1f1f1 2px solid;
+            border-radius: 16px;
+            white-space: nowrap;
+        }
+        .product__warranty {
+            background: url("https://www.static-src.com/frontend/product-detail/static/img/ic-correct.ec4209ab.svg") center left no-repeat;
+            padding-left: 22px;
+        }
+        .product__features {
+            margin: 0;
+        }
+        .product__selengkapnya {
+            background: #f9f9f9;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            /*display: flex;*/
+            overflow: auto;
+            align-items: center;
+            justify-content: center;
+        }
+        .product__selengkapnya-header {
+            height: 56px;
+            line-height: 56px;
+            font-size: 18px;
+        }
+        .product__selengkapnya-header .arrow-button {
+            border: solid #858585;;
+            border-width: 0 3px 3px 0;
+            display: inline-flex;
+            padding: 4px;
+            transform: rotate(135deg);
+            -webkit-transform: rotate(135deg);
+            position: absolute;
+            top: 23px;
+            align-items: center;
+            left: 16px;
+            font-size: 1.6rem;
+            font-weight: bold;
+        }
+        .product__selengkapnya-header .main {
+            padding-left: 48px;
+        }
+        .product__selengkapnya-detail {
+            padding: 24px 16px;
+            margin: 4px 0 8px 0;
+        }
+        .product__selengkapnya-detail-brand {
+            line-height: 25px;
+        }
+        .product__selengkapnya h1 {
+            font-size: 2.4rem;
+            line-height: 35px;
+        }
+        .product__selengkapnya-detail-content {
+            background: #ffffff;
+            word-break: break-word;
+            max-width: 100%;
+            overflow: hidden;
+            padding: 24px 16px;
+        }
+        .product__selengkapnya-detail-content-product p {
+            margin-top: 0;
+            font-size: 1.4rem;
+        }
+        .product__selengkapnya-detail-spesifikasi {
+            margin-top: 48px;
+        }
+        .product__selengkapnya-detail-spesifikasi .specification__title {
+            font-size: 1.8rem;
+            line-height: 2.7rem;
+            margin-bottom: 32px;
+        }
+        .product__selengkapnya-detail-spesifikasi .specification__table {
+            width:100%;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .product__selengkapnya-detail-spesifikasi .specification__table tr{
+            border-top: 1px solid #d6d6d6;
+            display: flex;
+            color: rgba(0,0,0,.38);
+        }
+        .product__selengkapnya-detail-spesifikasi .specification__table .label{
+            width: 96px;
+            font-size: 1.6rem;
+            line-height: 1.3;
+            padding: 16px 0;
+            display: inline-block;
+        }
+        .product__selengkapnya-detail-spesifikasi .specification__table .value{
+            width: calc(100% - 96px);
+            padding: 16px 0 16px 16px;
+            font-size: 1.6rem;
+            line-height: 1.3;
+        }
+        .product__selengkapnya-detail-identifier {
+            padding: 24px 16px;
+            margin: auto;
+        }
+        .product__selengkapnya-detail-identifier .identifier-list{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .product__selengkapnya-detail-identifier .identifier-list .label{
+            color: rgba(0,0,0,.38);
+            font-size: 1.6rem;
+            line-height: 1.3;
+            width: 175px;
+            padding: 4px 0;
+            display: inline-block;
+        }
+        .product__selengkapnya-detail-identifier .identifier-list .value{
+            width: calc(100% - 96px);
+            color: rgba(0,0,0,.6);
+            padding: 0 0 4px 16px;
+            font-size: 1.6rem;
+            line-height: 1.3;
+        }
+        .lightbox-btn {
+            color: var(--color-secondary);
+            text-decoration: none;
+            border-color: transparent;
+            background-color: transparent;
+            -webkit-transition: color .4s;
+            transition: color .4s;
+            margin: 8px auto;
+            font-size: 1.4rem;
+        }
+        /* product ] */
+
+        /* wishlist [ */
+        .wishlist {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            -webkit-box-shadow: 0 0 24px -4px rgba(0,0,0,.12);
+            box-shadow: 0 0 24px -4px rgba(0,0,0,.12);
+            background-color: #fff;
+            cursor: pointer;
+            display: grid;
+            place-content: center;
+            position: absolute;
+            right: 12px;
+        }
+        .love-left  {fill: #858585;}
+        .love-right {fill: #bdbdbd;}
+        .love-left, .love-right {transition: all .4s;}
+        .wishlist:hover .love-left,  .wishlist.active .love-left  {fill: #ef3b42;}
+        .wishlist:hover .love-right, .wishlist.active .love-right {fill: #f25b61;}
+        /* wishlist  */
+
+        /* carousel [ */
+        .carousel .product__list .product__item {
+            min-width: 156px;
+        }
+        /* carousel ] */
+
+        /* merchant [ */
+        .seller-card {
+            margin: 24px 16px 0;
+            box-shadow: var(--shadow);
+            background-color: white;
+            border-radius: var(--size-m);
+        }
+
+        .pdp__seller {
+            display: flex;
+            padding: 16px;
+            position: relative;
+            background: #fff;
+            border-radius: 16px;
+        }
+
+        .seller {
+            display: grid;
+            width: 100%;
+            grid-template-columns: 64px 1fr;
+            grid-template-areas:
+                    "seller__logo seller__name seller__additional-info"
+                    "seller__logo seller__info seller__info"
+                    "seller__rating seller__rating seller__rating"
+                    "seller__button seller__button seller__button";
+        }
+
+        .seller__logo {
+            grid-area: seller__logo;
+            justify-self: center;
+        }
+
+        .seller__logo .logo-container {
+            width: 64px;
+            height: 64px;
+        }
+
+        .seller__name {
+            grid-area: seller__name;
+            padding-left: 12px;
+            margin-bottom: 4px;
+        }
+
+        .seller__name .text {
+            font-size: 1.6rem;
+            margin-right: 4px;
+        }
+
+        .seller__name .icon {
+            width: 48px;
+            min-width: 48px;
+            display: inline-block;
+            vertical-align: text-bottom;
+        }
+
+        .seller__name .icon > img {
+            display: table;
+            max-width: 100%;
+        }
+
+        .seller__additional-info {
+            grid-area: seller__additional-info;
+            justify-self: center;
+        }
+
+        .seller__additional-info .icon {
+            cursor: pointer;
+            background-image: url("https://www.static-src.com/frontend/product-detail/static/img/ic-info.afc945c3.svg");
+            background-size: cover;
+            width: 18px;
+            height: 18px;
+            display: block;
+        }
+
+        .seller__info {
+            grid-area: seller__info;
+            padding-left: 12px;
+        }
+
+        .seller__info > div:not(:first-child) {
+            margin-top: 6px;
+        }
+
+        .seller-info__location {
+            display: grid;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            grid-template-columns: 18px 1fr;
+            grid-column-gap: 6px;
+        }
+
+        .seller-info__grid-icon .ic-location {
+            background: #fff url("https://www.static-src.com/frontend/product-detail/static/img/ic-location.0b7097cd.svg") 100% no-repeat;
+            background-size: cover;
+            width: 18px;
+            height: 18px;
+            display: block;
+        }
+
+        .seller-info__grid-content {
+            font-size: 14px;
+            line-height: 1.29;
+            display: contents;
+        }
+
+        .seller-info__grid-content .text-ellipsis {
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+
+        .seller-info__badges {
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+
+        .seller-info__badges .badge-topseller {
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            position: relative;
+            margin: 3px 4px 3px 0;
+        }
+
+        .seller-info__badges .badge-topseller .icon {
+            width: 24px;
+            height: 24px;
+            position: absolute;
+            bottom: -2px;
+            display: table;
+            margin: 0 auto;
+        }
+
+        .seller-info__badges .badge-topseller .text {
+            border-radius: 16px;
+            font-size: 12px;
+            font-family: efframedium,Helvetica,Arial,sans-serif;
+            padding: 0 8px 0 28px;
+        }
+
+        .seller-info__badges .badge-topseller .text--BRONZE {
+            color: #975d3a;
+            background-color: #edd9c6;
+        }
+
+        .seller-info__badges .badge-topseller .text--SILVER {
+            color: rgba(0,0,0,.38);
+            background-color: #f1f1f1;
+        }
+
+        .seller-info__badges .badge-topseller .text--GOLD {
+            color: #f37021;
+            background-color: #fde2c2;
+        }
+
+        .seller-info__badges .badge-topseller .text--DIAMOND {
+            color: #0095da;
+            background-color: #daf3ff;
+        }
+
+        .seller-info__badges .badge-topseller .text--OS {
+            color: #0095da;
+            background-color: #daf3ff;
+        }
+
+        .seller__rating {
+            grid-area: seller__rating;
+            justify-self: center;
+            margin-top: 12px;
+            width: 100%;
+        }
+
+        .seller-rating {
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            grid-template-areas: "positive-review on-time-fulfillment active-response";
+        }
+
+        .seller-rating__positive-review {
+            grid-area: positive-review;
+        }
+
+        .seller-rating__on-time-fulfillment {
+            grid-area: on-time-fulfillment;
+            border-left: 1px solid #e0e0e0;
+            border-right: 1px solid #e0e0e0;
+        }
+
+        .seller-rating__active-response {
+            grid-area: active-response;
+        }
+
+        .seller-rating .value {
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        .seller-rating .text {
+            font-size: 1.4rem;
+            text-align: center;
+        }
+
+        .seller__button {
+            display: grid;
+            grid-area: seller__button;
+            grid-template-areas: "follow seller-chat";
+            gap: 0 12px;
+            grid-template-columns: repeat(2,calc(50% - 6px));
+            grid-template-rows: 1fr;
+            margin-top: 12px;
+        }
+
+        .seller__button .follow {
+            grid-area: follow;
+            padding: 0;
+            height: 3.2rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .seller__button .seller-chat {
+            grid-area: seller-chat;
+            color: #0095da;
+            border: #e0e0e0 .2rem solid;
+            -webkit-transition: background-color .4s, border-color .6s;
+            transition: background-color .4s, border-color .6s;
+            background-color: transparent;
+            padding: 0;
+            height: 3.2rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .seller__button-ripple {
+            padding: 0 2.4rem;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-pack: center;
+            justify-content: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -webkit-box-align: center;
+        }
+
+        .seller__button-ripple > img {
+            width: 18px;
+            margin-right: 4px;
+        }
+
+        .merchant {
+            position: relative;
+            z-index: 2;
+            padding-left: var(--size-xl);
+            background: white url("https://www.static-src.com/frontend/product-detail/static/img/merchant.b2ec90c2.svg") no-repeat var(--size-m) var(--size-m);
+        }
+        .merchant__name-wrapper {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .merchant__name {
+            font-weight: 600;
+        }
+        .merchant__badge {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            margin-bottom: var(--size-s);
+        }
+        .merchant__badge-wrapper {
+            display: inline-flex;
+            align-items: center;
+            position: relative;
+            margin: 3px 4px 3px 0;
+        }
+        .merchant__badge--icon {
+            width: 24px;
+            height: 24px;
+            position: absolute;
+        }
+        .merchant__badge--top-rated {
+            color: #f37021;
+            background-color: #fde2c2;
+            border-radius: 16px;
+            font-size: 12px;
+            font-family: efframedium,Helvetica,Arial,sans-serif;
+            padding: 0 8px 0 28px;
+        }
+        .merchant__rating {
+            padding-left: 20px;
+            background: url("https://www.static-src.com/frontend/product-detail/static/img/star.151fd7d6.svg") center left no-repeat;
+            background-size: 18px;
+        }
+        .merchant__location {
+            padding-left: 20px;
+            background: url("https://www.static-src.com/frontend/product-detail/static/img/ic-location.0b7097cd.svg") center left no-repeat;
+            background-size: 18px;
+        }
+        /* merchant ] */
+
+        /* shipping [ */
+        .product__shipping {
+            color: var(--black-high);
+        }
+
+        .aditional-info {
+            margin-top: calc(var(--size-m)*-1);
+            padding-top: var(--size-l);
+            padding-left: var(--size-xl);
+            font-size: 1.2rem;
+            background: #e0e0e0 url("https://www.static-src.com/frontend/product-detail/static/img/ic-info.afc945c3.svg") no-repeat var(--size-m) var(--size-l);
+            background-size: 22px;
+        }
+        /* shipping ] */
+
+        /* card with arrow [ */
+        .cwa {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .cwa:after {
+            content: '';
+            width: 18px;
+            height: 18px;
+            background-color: #0095da;
+            -webkit-mask-image: var(--arrow);
+            mask-image: var(--arrow);
+            -webkit-mask-repeat: no-repeat;
+            display: block;
+            transform: rotate(180deg);
+        }
+        .cwa-logo {
+            width: 80px;
+            margin-right: var(--size-s);
+        }
+        .cwa-text {
+            width: calc(100% - 108px);
+        }
+        .merchant.cwa {
+            align-items: flex-start;
+        }
+        .merchant.cwa > div {width: calc(100% - 20px);}
+        /* card with arrow ] */
+
+        /* review [ */
+        .review__wrapper {
+            margin-top: var(--size-xl);
+        }
+        .review, .qna__item {
+            padding: var(--size-m) 0;
+        }
+        .review__amt {line-height: 2.6rem;}
+        .review__empty-message {
+            font-size: 16px;
+            text-align: center;
+            color: rgba(0,0,0,.38);
+            padding: 35px 16px;
+            font-weight: 600;
+        }
+        .review__score {
+            width: 88px;
+            height: 28px;
+            margin-top: -60px;
+            margin-left: auto;
+            display: grid;
+            place-content: center left;
+            font-size: var(--size-l);
+            font-weight: bold;
+            background: white var(--star) no-repeat 66px 9px;
+            background-size: 38px;
+        }
+        .review__head {
+            display: flex;
+            justify-content: space-between;
+        }
+        .review__head-right, .like {
+            line-height: 1;
+            display: flex;
+            align-items: center;
+        }
+        .review__content {color: var(--black-medium);}
+        .review:not(:last-of-type), .qna__item:not(:last-of-type) {
+            border-bottom: #ccc 1px solid;
+        }
+        .review .product__varian-thumb amp-img {border: none;}
+        .see__all {
+            display: block;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 16px;
+            font-size: 1.4rem;
+        }
+        .star, .star div  {
+            height: 16px;
+            -webkit-mask-image: var(--star);
+            mask-image: var(--star);
+        }
+        .star {
+            position: relative;
+            width: 80px;
+            background-color: #bdbdbd;
+        }
+        .star div {
+            position: absolute;
+            background-color: #FEBF35;
+        }
+        .like, .qna__merchant {
+            font-size: 1.4rem;
+            color: var(--black-medium);
+        }
+        .like svg {
+            transform: scale(.8);
+            margin: 0 4px;
+        }
+        .like-arm {fill: #858585;}
+        .like-finger {fill: #BDBDBD;}
+        .like, .like-arm, .like-finger {transition: all .3s;}
+        .like:hover, .like.active {color: var(--color-secondary);}
+        .like:hover .like-arm, .like.active .like-arm {fill: #0072A7;}
+        .like:hover .like-finger, .like.active .like-finger {fill: #0EB3FF;}
+        .tridot, .qna__q:after, .qna__a:after {
+            color: #858585;
+            font-size: 2rem;
+            font-weight: bold;
+            transform: rotate(270deg);
+        }
+        /* review ] */
+
+        /* qna [ */
+        .qna {margin-top: 24px;}
+        .qna__top {color: var(--black-medium);}
+        .qna .product, .qna__cs, .qna__empty, .qna__btn {
+            margin-bottom: var(--size-s);
+        }
+        .qna .product {
+            display: flex;
+            align-items: center;
+            font-size: 1.4rem;
+        }
+        .qna .product__name {
+            color: var(--black-high);
+            height: auto;
+            padding-left: 8px;
+        }
+        .qna .product amp-img {width: 64px;}
+        .qna__cs, .qna__empty-desc {
+            font-size: 1.2rem;
+            line-height: 1.6rem;
+        }
+        .qna__btn {
+            width: 100%;
+            height: var(--size-l);
+            border-radius: var(--size-s);
+            border: #e0e0e0 2px solid;
+            font-size: 1.4rem;
+            display: grid;
+            place-items: center;
+        }
+        .qna__empty {text-align: center;}
+        .qna__empty-title {font-size: 1.6rem;}
+        .qna__item small {
+            display: block;
+        }
+        .qna__q, .qna__a {
+            display: flex;
+            align-items: flex-start;
+        }
+        .qna__q {margin-bottom: var(--size-s);}
+        .qna__q:before, .qna__a:before {
+            width: 20px;
+        }
+        .qna__q:before {
+            content: "T:"
+        }
+        .qna__q:after, .qna__a:after {
+            content: "...";
+            margin-left: auto;
+        }
+        .qna__a:before {
+            content: "J:"
+        }
+        .qna__a a {
+            font-size: 1.4rem;
+            padding-top: var(--size-s);
+            display: block;
+        }
+        .qna__merchant-blibli {
+            position: relative;
+            background-color: #0eb3ff;
+            color: #fff;
+            height: 20px;
+            padding: 0 8px;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            font-size: 12px;
+            line-height: 0;
+            letter-spacing: 0.8px;
+            text-decoration: none;
+            border-radius: 16px;
+            white-space: nowrap;
+            text-transform: capitalize;
+            left: 0;
+        }
+        .qna__merchant-blibli span {
+            background-image: url("https://www.static-src.com/frontend/product-detail/static/img/customer-care.fd79246e.svg");
+            background-size: cover;
+            width: 14px;
+            height: 14px;
+            display: block;
+            margin-right: 4px;
+        }
+        /* qna ] */
+
+        /* recommendation [ */
+        .recommendation__reviews {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+        }
+        .recommendation__review-count {
+            color: rgba(0,0,0,.38);
+            line-height: 1.4;
+            margin-left: 3px;
+            font-size: 12px;
+        }
+        /* ] recommendation */
+
+        /* cta [ */
+        .cta {
+            position: fixed;
+            z-index: 99;
+            bottom: 76px;
+            width: calc(100% - 32px);
+            box-shadow: var(--shadow);
+            background-color: white;
+            border-radius: var(--size-l) var(--size-l) 0 0;
+        }
+        .cta-nobanner {
+            position: fixed;
+            z-index: 99;
+            bottom: 0;
+            width: calc(100% - 32px);
+            box-shadow: var(--shadow);
+            background-color: white;
+            border-radius: var(--size-l) var(--size-l) 0 0;
+        }
+        .cta-button {
+            float: right;
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+        }
+        .cta amp-img {
+            max-width: 400px;
+            margin: auto;
+            display: block;
+        }
+        .cta-button-bag {
+            display: table-cell;
+            padding: 17px;
+            width: 30%;
+            background-color: #0095da;
+            border-color: #0095da;
+            background-image: url("https://www.static-src.com/frontend/product-detail/static/img/add-to-cart.09ac1971.svg");
+            background-repeat: no-repeat;
+            background-position: center;
+            border-radius: 16px;
+        }
+        .cta-button-buy {
+            display: table-cell;
+            color: #fff;
+            background-color: #f37021;
+            border-color: #f37021;
+            padding: 15px 17px;
+            width: 70%;
+            text-align: center;
+            border-radius: 16px;
+        }
+        .cta-button-let-me-know{
+            width: 100%;
+            cursor: not-allowed;
+            color: #fff;
+            display: table-cell;
+            padding: 15px 17px;
+            text-align: center;
+            border-radius: 16px;
+            background-color: #0095da;
+            border-color: #0095da;
+            -webkit-transition: background-color .4s, border-color .4s;
+            transition: background-color .4s, border-color .4s;
+        }
+        .cta-button-wedge {
+            width: 3vw;
+        }
+        /* cta ] */
+
+        /* footer[ */
+        .footer {
+            border-top: #0eb3ff 7px solid;
+        }
+        .footer__top, .footer__btm {
+            padding: var(--size-m);
+        }
+        .footer__btm {
+            font-size: 1.2rem;
+            background-color: #f1f1f1;
+            padding-bottom: 100px;
+        }
+
+        .cs {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .cs__title {
+            font-weight: bold;
+            margin: 0 4px;
+            color: var(--black-medium);
+        }
+
+        .seo, .tnc {
+            font-size: 1.2rem;
+            color: var(--black-medium);
+        }
+        .seo {
+            position: relative;
+            line-height: 18px;
+        }
+        .seo input {display: none;}
+        #seo-more~label {
+            color: #0095da;
+            position: absolute;
+            bottom: -10px;
+            height: 50px;
+            width: 100%;
+            text-align: center;
+            background: linear-gradient(0deg,rgba(255,255,255,1) 40%,rgba(255,255,255,0) 130%);
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            -webkit-box-align: end;
+            -ms-flex-align: end;
+            align-items: flex-end;
+        }
+        #seo-more~label:before {
+            content: 'Lihat selengkapnya ';
+        }
+        #seo-more~label:after {
+            content: '';
+            width: 14px;
+            height: 14px;
+            background: var(--arrow) no-repeat top right;
+            transform: rotate(180deg);
+            transition: all .3s;
+            margin-bottom: 1px;
+        }
+        #seo-more:checked~.seo-content {
+            max-height: 5950px;
+        }
+        #seo-more:checked~label:before {
+            content: 'Lihat seperlunya ';
+        }
+        #seo-more:checked~label:after {
+            transform: rotate(90deg);
+        }
+        .seo h1 {
+            font-size: 1.2rem;
+            font-weight: normal;
+            text-align: justify;
+        }
+        .seo h2 {
+            font-size: 14px;
+        }
+        .seo-content {
+            max-height: 10px;
+            padding-bottom: 30px;
+            overflow: hidden;
+            -webkit-transition: max-height .5s ease-in-out;
+            -o-transition: max-height .5s ease-in-out;
+            transition: max-height .5s ease-in-out;
+        }
+
+        .tnc {
+            text-align: center;
+        }
+        /* footer ] */
+
+        /* [ Journey */
+
+        #branch-amp-journey {
+            bottom:0;
+            left:0;
+            width:100%;
+            height:76px;
+            position:fixed;
+            z-index: 100;
+        }
+        .hideme {
+            width:100%;
+            height:76px;
+            left:0;
+            background-color:none;
+            position:fixed;
+        }
+        .close {
+            width:24px;
+            height:100%;
+            right:0;
+            z-index:10000;
+            background-color:none;
+            position:fixed;
+        }
+
+        .branch-amp-journey-inner {
+            position:relative;
+            width:100%;
+            height:100%;
+            z-index:9999;
+        }
+        .donotdisplay {
+            display:none;
+        }
+
+        .flex-center {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .margin-bottom-0 {
+            margin-bottom: 0;
+        }
+        .recommendation h2.recommendation__title {
+            font-size: 1.8rem;
+            line-height: 1.5;
+        }
+        h3.related-search__title {
+            font-size: 1.8rem;
+            line-height: 1.5;
+            margin-bottom: var(--size-m);
+        }
+        .related-search__container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--size-s);
+        }
+        .related-search__card {
+            display: flex;
+            gap: 4px;
+            width: fit-content;
+            color: var(--black-high);
+            background: #fff;
+            border: 1px solid #E0E0E0;
+            border-radius: var(--size-s);
+            padding: var(--size-s) var(--size-m) var(--size-s) 12px;
+        }
+        .related-search__icon {
+            color: #BDBDBD;
+        }
+        .related-search__label {
+            font-size: 1.4rem;
+            line-height: 1.8rem;
+        }
+
+        .breadcrumb {
+          padding: 8px 0;
+          display: inline-block;
+        }
+
+        .breadcrumb__block {
+          display: inline;
+          font-size: 12px;
+          margin-right: 5px;
+          overflow-wrap: anywhere;
+        }
+
+        .breadcrumb__link,
+        .breadcrumb__separator {
+          display: inline;
+          color: #0095da;
+          font-size: 14px;
+        }
+
+        .breadcrumb__separator {
+          margin-left: 5px;
+          color: #333;
+          font-size: 13px;
+        }
+
+        .icon-class {
+          width: 1em;
+          height: 1em;
+          flex-shrink: 0;
+          display: inline-block;
+          vertical-align: middle;
+          margin: 3px 3px;
+        }
+
+        .breadcrumb__block:last-child>span {
+          color: #00000099;
+          font-size: 14px;
+        }
+
+        .breadcrumb__link.last-index {
+          color: #333;
+          font-weight: 700;
+        }
+
+        /*   Journey ] */
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <!-- AMP STYLESHEET -end -->
+</head>
+<body>
+
+<!-- Star  t Service Worker AMP Javasript -->
+<amp-install-serviceworker src="/serviceworker.js"
+                           layout="nodisplay">
+</amp-install-serviceworker>
+<!-- End Service Worker AMP Javasript -->
+
+<!-- Start Alexa AMP Certify Javasript -->
+<amp-analytics type="alexametrics">
+    <script type="application/json">
+        { "vars": { "atrk_acct": "9o/vllak0EYlbz", "domain": "<?php echo $urlPath ?>" }}
+    </script>
+</amp-analytics>
+<!-- End Alexa AMP Certify Javasript -->
+
+<!--AMP GTM-->
+<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-NFL59ZZ&gtm.url=SOURCE_URL"
+               data-credentials="include"></amp-analytics>
+<!--AMP GTM-->
+
+<!-- AMP HEADER -start -->
+<header class="header">
+    <div class="header__left">
+        <a href="<?php echo $urlPath ?>" class="header__left__backbtn"></a>
+        <a href="<?php echo $urlPath ?>/_search?searchTerm=" class="header__left__searchbtn"></a>
+    </div>
+    <div class="header__right">
+        <a href="<?php echo $urlPath ?>" class="header__right__cartbtn"></a>
+        <amp-social-share type="system"
+                          width="32"
+                          height="32"
+                          data-param-text="<?php echo $BRANDS ?>"
+                          data-param-url="<?php echo $urlPath ?>"
+                          class="header__right__sharebtn">
+        </amp-social-share>
+    </div>
+</header>
+<!-- AMP HEADER -end -->
+
+<!-- MAIN CONTENT -start -->
+<main class="product">
+
+    <div class="body-content">
+        <!-- pdp info [ -->
+        <section class="pdp__info">
+            <div class="carousel-image">
+                <amp-image-lightbox id="lightboxProduct" layout="nodisplay"></amp-image-lightbox>
+                <amp-carousel
+                  id="carousel"
+                  width="400"
+                  height="400"
+                  layout="responsive"
+                  type="slides"
+                  on="slideChange:
+                    carouselSelector.toggle(index=event.index, value=true),
+                    carouselDots.goToSlide(index=event.index)">
+                    
+                    
+                    
+                    <figure class="product__img">
+                        <amp-img on="tap:lightboxProduct"
+                                 role="button"
+                                 attribution="visualhunt"
+                                 src="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"
+                                 alt="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"
+                                 width="380"
+                                 height="380"
+                                 layout="responsive"
+                                 tabindex="0">
+                        </amp-img>
+                    </figure>
+                    
+                    <figure class="product__img">
+                        <amp-img on="tap:lightboxProduct"
+                                 role="button"
+                                 attribution="visualhunt"
+                                 src="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"
+                                 alt="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"
+                                 width="380"
+                                 height="380"
+                                 layout="responsive"
+                                 tabindex="0">
+                        </amp-img>
+                    </figure>
+                    
+                    <figure class="product__img">
+                        <amp-img on="tap:lightboxProduct"
+                                 role="button"
+                                 attribution="visualhunt"
+                                 src="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"
+                                 alt="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"
+                                 width="380"
+                                 height="380"
+                                 layout="responsive"
+                                 tabindex="0">
+                        </amp-img>
+                    </figure>
+                    
+                    <figure class="product__img">
+                        <amp-img on="tap:lightboxProduct"
+                                 role="button"
+                                 attribution="visualhunt"
+                                 src="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"
+                                 alt="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"
+                                 width="380"
+                                 height="380"
+                                 layout="responsive"
+                                 tabindex="0">
+                        </amp-img>
+                    </figure>
+                    
+                    <figure class="product__img">
+                        <amp-img on="tap:lightboxProduct"
+                                 role="button"
+                                 attribution="visualhunt"
+                                 src="https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"
+                                 alt="<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini"
+                                 width="380"
+                                 height="380"
+                                 layout="responsive"
+                                 tabindex="0">
+                        </amp-img>
+                    </figure>
+                    
+                    
+                </amp-carousel>
+                <amp-selector
+                  id="carouselSelector"
+                  on="select:carousel.goToSlide(index=event.targetOption)"
+                  layout="container"
+                >
+                    <amp-carousel id="carouselDots" class="carousel-dots" height="16px">
+                        
+                        
+                          <span option="0"></span>
+                        
+                          <span option="1"></span>
+                        
+                          <span option="2"></span>
+                        
+                          <span option="3"></span>
+                        
+                          <span option="4"></span>
+                        
+                        
+                    </amp-carousel>
+                </amp-selector>
+            </div>
+            <div class="product__info card-large card-layer">
+                
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="wishlist">
+                        <!-- <div class="wishlist active"> -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
+                            <path class="love-left" d="M11 5.20698C10.0999 3.50647 8.49886 2.35 6.39799 2.35C3.49544 2.35 1.0938 4.74992 1.0938 7.65039C1.0938 8.25038 1.0938 13.7496 11 19.65L11 5.20698Z"/>
+                            <path class="love-right" d="M11 5.20698C11.9 3.50647 13.5011 2.35 15.602 2.35C18.5046 2.35 20.9062 4.74992 20.9062 7.65039C20.9062 8.25038 20.9062 13.7496 11 19.65L11 5.20698Z"/>
+                        </svg>
+                    </div>
+                </a>
+                <div class="product__name product__name-container"><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</div>
+                
+                <div class="product__price">
+                    <div class="product__price-after">Rp25.000</div>
+                    
+                    
+                    <span class="product__price-before">Rp50.000</span>
+                    <span class="product__price-discount">50%</span>
+                    
+                </div>
+                
+                
+                <div class="product__statistics">
+                    <div class="product__statistics-rating">
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 0.99524 0.99524">
+                            <linearGradient id="a2w7k" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="0%" stop-color="#fdb813"></stop>
+                                <stop offset="0%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="0.97712,0.4546,0.99524,0.38118,0.9374,0.33242,0.69556,0.29728,0.67176,0.27998,0.56364,0.06086,0.4994,0.02094,0.43518,0.06086,0.32704,0.28,0.30322,0.2973,0.06138,0.33244,0.00354,0.3812,0.02166,0.45462,0.19664,0.62518,0.20576,0.65318,0.16448,0.89402,0.1801,0.9521,0.2684,0.96952,0.48468,0.8558,0.51412,0.8558,0.73042,0.96952,0.76374,0.97786,0.8187,0.9521,0.83432,0.89402,0.79302,0.65318,0.80214,0.62518,0.97712,0.4546" fill="url(#a2w7k)"></polygon>
+                        </svg>
+                        
+                        <a class="product-rating__count" href="<?php echo $urlPath ?>">(5)</a>
+                    </div>
+                    
+                    <span class="divider">•</span>
+                    <span class="product-statistics__sold-seen">Terjual 855</span>
+                    
+                </div>
+                
+                
+            </div>
+            <!-- pdp info ] -->
+
+            <!-- PRODUCT DESC TAB -start -->
+            
+
+            
+
+
+            
+
+            <div class="card-large card-layer">
+                <h3>Deskripsi produk</h3><br>
+                <div>
+                
+                    
+                    
+                    <a href="<?php echo $urlPath ?>" class="product__warranty">Banyak Bonus New Member (Tanpa Syarat)</a><br>
+                                    
+                                    
+                    <a href="<?php echo $urlPath ?>" class="product__warranty">Situs Paling Gacor</a><br>
+                    
+                    
+                    
+                    <a href="<?php echo $urlPath ?>" class="product__warranty">Garansi Anti Kekalahan</a>
+                    
+                </div>
+                <br>
+                <div class="product__features">
+                    
+                    <br>
+                    <!--if arahin ke halaman pdp aslinya-->
+                    <amp-lightbox scrollable id="my-lightbox" layout="nodisplay">
+                        <div class="product__selengkapnya"
+                             on="tap:my-lightbox.close"
+                             role="button"
+                             tabindex="0">
+                            <div class="product__selengkapnya-header">
+                                <div class="arrow-button"></div>
+                                <div class="main">Bukti Gacor Bos</div>
+                            </div>
+                            <div class="product__selengkapnya-detail">
+                                <h1><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</h1>
+                                <div class="product__selengkapnya-detail-brand">
+                                    
+                                    
+                                    
+                                    <a href="<?php echo $urlPath ?>" class="product__warranty">Banyak Bonus New Member (Tanpa Syarat)</a><br>
+                                    
+                                    
+                                    <a href="<?php echo $urlPath ?>" class="product__warranty">Situs Paling Gacor</a><br>
+                                    
+                                    
+                                    
+                                    <a href="<?php echo $urlPath ?>" class="product__warranty">Garansi Anti Kekalahan</a>
+                                    
+                                </div><br>
+                            </div>
+                            <div class="product__selengkapnya-detail-content">
+                                <div class="product__selengkapnya-detail-content-product">
+                                   #artikel
+                                </div>
+                                <div class="product__selengkapnya-detail-spesifikasi">
+                                    <h5 class="specification__title">Spesifikasi</h5>
+                                    <table class="specification__table">
+                                        <tbody>
+                                        
+                                        
+                                        <tr>
+                                            <td class="label">Jenis</td>
+                                            <td class="value">Slot Gacor</td>
+                                        </tr>
+                                        
+                                        
+                                        
+                                        <tr>
+                                            <td class="label">Brand</td>
+                                            <td class="value"><?php echo $BRANDS ?></td>
+                                        </tr>
+                                        
+                                        
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </amp-lightbox>
+                    <button on="tap:my-lightbox" class="b-block tx-center lightbox-btn">
+                        Selengkapnya
+                    </button>
+                </div>
+            </div>
+            <!-- PRODUCT DESC TAB -end -->
+        </section>
+
+        <section>
+            
+            
+
+            <!-- merchant [ -->
+            <section>
+                <div class="seller-section">
+                    <div class="seller-card">
+                        <div class="pdp__seller">
+                            <div class="seller">
+                                <div class="seller__logo">
+                                    <div class="logo-container">
+                                        
+                                        <amp-img src="https://res.cloudinary.com/djziww7yf/image/upload/t_Profile/v1707557971/seoo_aq0wrc.png"
+                                                 width="64px"
+                                                 height="64px">
+                                        </amp-img>
+                                        
+                                    </div>
+                                </div>
+                                <div class="seller__name">
+                                    
+                                    <span class="text">MosiMosi</span>
+                                    <i class="icon">
+                                        <amp-img src="https://www.static-src.com/siva/asset/09_2023/FBB_New.png"
+                                                 width="48px"
+                                                 height="18px">
+                                        </amp-img>
+                                    </i>
+                                    
+                                </div>
+                                
+                                <div class="seller__info">
+                                    <div class="seller-info__badges">
+                                        
+                                        <figure class="badge-topseller">
+                                            <amp-img src="https://www.static-src.com/siva/asset/09_2023/os-logo-24px.png"
+                                                 class="icon"
+                                                 width="24px"
+                                                 height="24px">
+                                            </amp-img>
+                                            <span class="text text--OS">Official Slot Gacor</span>
+                                        </figure>
+                                        
+                                        
+                                        <figure class="badge-topseller">
+                                            <amp-img src="https://www.static-src.com/siva/asset/07_2020/icon-top-rated-diamond.png"
+                                                 class="icon"
+                                                 width="24px"
+                                                 height="24px">
+                                            </amp-img>
+                                            <span class="text text--DIAMOND">Top rated</span>
+                                        </figure>
+                                        
+                                    </div>
+                                    <div class="seller-info__location">
+                                        <div class="seller-info__grid-icon">
+                                            <i class="ic-location"></i>
+                                        </div>
+                                        <div class="seller-info__grid-content">
+                                            <span class="text-ellipsis">Tutor Deck?</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- merchant ] -->
+
+            <!-- Other offer merchant -->
+            
+
+            
+            <br>
+            <!-- Other offer merchant ] -->
+
+            <!-- shipping [ -->
+            <div class="merchant card-medium gap cwa">
+                <a href="<?php echo $urlPath ?>" class="product__shipping">
+                    <div class="">
+                        Cek web paling gacor
+                        <div class="c-lime">
+                            Hanya disini banyak bonus
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="aditional-info card-medium gap">
+                Estimasi gacor biasanya akan diberikan kepada member baru dengan deposit berapapun dan harap member jangan kaget jika menang terus.
+            </div>
+            <!-- shipping ] -->
+        </section>
+
+        <!-- review [ -->
+        <section class="review__wrapper">
+            <div class="review__amt b-flex">
+                <h3 class="heading">Ulasan</h3>
+                
+                <a href="<?php echo $urlPath ?>">5 ulasan</a>
+                
+            </div>
+            <div class="card-large">
+                
+                <div class="review__score card-medium">
+                    4.8
+                </div>
+                
+                
+                
+                <div class="review">
+                    <div class="review__head">
+                        <div>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        
+                        </div>
+                        <a href="<?php echo $urlPath ?>" class="review__head-right">
+                            <span class="like">
+                                834
+                                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="19">
+                                    <g>
+                                        <path class="like-arm"
+                                              d="M4 19H2c-1.1 0-2-.9-2-2V6.8c0-1.1.9-2 2-2h2c.6 0 1 .4 1 1V18c0 .6-.4 1-1 1z"/>
+                                        <path class="like-finger"
+                                              d="M13.3 1.8V6h5.4c1.1 0 1.9.9 1.9 2l-.5 7.5c-.1 2-1.8 3.5-3.8 3.5H7.9c-.5 0-.9-.4-.9-.9V5.6c0-.4.1-.6.3-1L10 .8c.6-.8 1.7-1 2.5-.4.5.3.8.8.8 1.4z"/>
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="tridot">...</span>
+                        </a>
+                    </div>
+                    <div class="review__title"></div>
+                    <div class="review__content">emang beneran gacor disini</div>
+
+                    
+                    <small> oleh Nurul</small>
+                </div>
+                
+                <div class="review">
+                    <div class="review__head">
+                        <div>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        
+                        </div>
+                        <a href="<?php echo $urlPath ?>" class="review__head-right">
+                            <span class="like">
+                                974
+                                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="19">
+                                    <g>
+                                        <path class="like-arm"
+                                              d="M4 19H2c-1.1 0-2-.9-2-2V6.8c0-1.1.9-2 2-2h2c.6 0 1 .4 1 1V18c0 .6-.4 1-1 1z"/>
+                                        <path class="like-finger"
+                                              d="M13.3 1.8V6h5.4c1.1 0 1.9.9 1.9 2l-.5 7.5c-.1 2-1.8 3.5-3.8 3.5H7.9c-.5 0-.9-.4-.9-.9V5.6c0-.4.1-.6.3-1L10 .8c.6-.8 1.7-1 2.5-.4.5.3.8.8.8 1.4z"/>
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="tridot">...</span>
+                        </a>
+                    </div>
+                    <div class="review__title"></div>
+                    <div class="review__content">kirain promonya bohongan,eh ternyata aku salah sangka bneran dikasih dong bonus sama jackpotnya</div>
+
+                    
+                    <small> oleh n***a</small>
+                </div>
+                
+                <div class="review">
+                    <div class="review__head">
+                        <div>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 50 50">
+                            <linearGradient id="8qbzvvf" x1="0" x2="100%" y1="0" y2="0">
+                                <stop offset="100%" stop-color="#fdb813"></stop>
+                                <stop offset="100%" stop-color="#bdbdbd"></stop>
+                            </linearGradient>
+                            <polygon points="23,2,14,17,0,19,10,34,7,50,23,43,38,50,36,34,46,19,31,17" fill="url(#8qbzvvf)"></polygon>\
+                        </svg>
+                        
+                        
+                        </div>
+                        <a href="<?php echo $urlPath ?>" class="review__head-right">
+                            <span class="like">
+                                675
+                                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="19">
+                                    <g>
+                                        <path class="like-arm"
+                                              d="M4 19H2c-1.1 0-2-.9-2-2V6.8c0-1.1.9-2 2-2h2c.6 0 1 .4 1 1V18c0 .6-.4 1-1 1z"/>
+                                        <path class="like-finger"
+                                              d="M13.3 1.8V6h5.4c1.1 0 1.9.9 1.9 2l-.5 7.5c-.1 2-1.8 3.5-3.8 3.5H7.9c-.5 0-.9-.4-.9-.9V5.6c0-.4.1-.6.3-1L10 .8c.6-.8 1.7-1 2.5-.4.5.3.8.8.8 1.4z"/>
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="tridot">...</span>
+                        </a>
+                    </div>
+                    <div class="review__title"></div>
+                    <div class="review__content"></div>
+
+                    
+                    <small> oleh R***e</small>
+                </div>
+                
+                <a class="see__all" href="<?php echo $urlPath ?>">Lihat semua ulasan</a>
+                
+            </div>
+        </section>
+
+        
+        <section class="related-search card-large">
+            <h3 class="related-search__title">Pencarian terkait</h3>
+            <div class="related-search__container">
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            <?php echo $BRANDS ?>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            slot gacor
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            slot x500
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            slot online
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            slot terpercaya
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            <?php echo $BRANDS ?> terbaru
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            <?php echo $BRANDS ?> x500
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            <?php echo $BRANDS ?> gacor
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                            <?php echo $BRANDS ?> apk
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="<?php echo $urlPath ?>">
+                    <div class="related-search__card">
+                        <div class="related-search__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" preserveAspectRatio="xMidYMid meet" width="16" height="16" viewBox="0 0 16 16">
+                                <path d="M11.0519 9.69471C12.3453 10.7947 13.5173 12.032 14.5106 13.4134C14.7393 13.7314 14.7079 14.1647 14.4366 14.436C14.1646 14.708 13.7319 14.7394 13.4133 14.5107C12.0313 13.5174 10.7946 12.3454 9.69459 11.052C8.83325 11.6487 7.79059 12 6.66659 12C3.72592 12 1.33325 9.60737 1.33325 6.66671C1.33325 3.72604 3.72592 1.33337 6.66659 1.33337C9.60725 1.33337 11.9999 3.72604 11.9999 6.66671C11.9999 7.79137 11.6479 8.83404 11.0519 9.69471ZM6.66592 2.66671C4.45992 2.66671 2.66592 4.46071 2.66592 6.66671C2.66592 8.87271 4.45992 10.6667 6.66592 10.6667C8.87192 10.6667 10.6659 8.87271 10.6659 6.66671C10.6659 4.46071 8.87192 2.66671 6.66592 2.66671Z"/>
+                            </svg>
+                        </div>
+                        <div class="related-search__label">
+                           <?php echo $BRANDS ?> slot
+                        </div>
+                    </div>
+                </a>
+                
+            </div>
+        </section>
+        
+        <br>
+        <!-- pencarian terkait ] -->
+
+        <!-- cta [ -->
+        <amp-state id="ctaJourney">
+            <script type="application/json">
+                {
+                    "bannerExists": {
+                        "style": "cta card-large"
+                    },
+                    "bannerNotExists": {
+                        "style": "cta-nobanner card-large"
+                    }
+                }
+            </script>
+        </amp-state>
+        <div class="cta card-large" [class]="ctaJourney[journeyState].style">
+            <div class="cta-button">
+                
+                <a href="https://nusatara88.xyz/" class="cta-button-bag"></a>
+                <div class="cta-button-wedge"></div>
+                <a href="https://nusatara88.xyz/" class="cta-button-buy">
+                    <b>DAFTAR</b>
+                </a>
+                
+            </div>
+        </div>
+        <!-- cta ] -->
     </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.b806f032e33948e7465e46357935afae.js" type="text/javascript"></script>
-    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+    <footer class="footer">
+        <div class="footer__top">
+            <div class="cs">
+                <amp-img
+                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbC1ydWxlPSJub256ZXJvIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMjIuNCAxNC43NDNoLTMuNDg2di04LjRIMjIuNGMuODU3IDAgMS40ODYuNjg2IDEuNDg2IDEuNDg2VjEzLjJjMCAuODU3LS42ODYgMS41NDMtMS40ODYgMS41NDN6bS0yMC4xNzEgMEg0Ljk3TDUuNTQzIDYuNEgyLjIyOUMxLjMxNCA2LjQuNTcgNy4wMjkuNTcgNy43NzF2NS42YzAgLjc0My43NDMgMS4zNzIgMS42NTggMS4zNzJ6IiBmaWxsPSIjODU4NTg1Ii8+PHBhdGggZD0iTTE4Ljg1NyAyMC4zNDNIMTUuMDNjLS41NzIgMC0xLjA4Ni0uNTE0LTEuMDg2LTEuMiAwLS42ODYuNTE0LTEuMiAxLjA4Ni0xLjJIMTguNFY5LjcxNEMxOC40IDYgMTUuNjU3IDMuMDMgMTIuMjI5IDMuMDNjLTMuNDI5IDAtNi4xMTUgMy4wMjgtNi4xMTUgNi42ODV2NC43NDNjMCAuNjI5LS41MTQgMS4yLTEuMDg1IDEuMi0uNTcyIDAtMS4wODYtLjUxNC0xLjA4Ni0xLjJWOS43MTRjMC00Ljk3MSAzLjcxNC05LjAyOCA4LjM0My05LjAyOCA0LjYyOCAwIDguMjg1IDQuMDU3IDguMjg1IDkuMDI4djguNzQzYzAgMS4wMjktLjggMS44ODYtMS43MTQgMS44ODZ6IiBmaWxsPSIjQkRCREJEIi8+PHBhdGggZD0iTTE0Ljc0MyAyMS4zMTRoLTEuNjU3QTIuNTM3IDIuNTM3IDAgMCAxIDEwLjU3IDE4LjhhMi41MzcgMi41MzcgMCAwIDEgMi41MTUtMi41MTRoMS42NTdhMi41MzcgMi41MzcgMCAwIDEgMi41MTQgMi41MTQgMi41IDIuNSAwIDAgMS0yLjUxNCAyLjUxNHoiIGZpbGw9IiM4NTg1ODUiLz48L2c+PC9zdmc+"
+                        alt="headsetd"
+                        width="32"
+                        height="32"
+                        class="cs__img">
+                </amp-img>
+                <span class="cs__title">Butuh Bantuan?</span>
+                <a class="link" href="https://nusatara88.xyz/">Hubungi Kami</a>
+            </div>
+            <article class="seo container">
+                <input type="checkbox" name="" id="seo-more">
+                <label for="seo-more"></label>
 
-  </body>
+                <h2></h2>
+
+                <section class="seo-content">
+                  <div class="breadcrumb">
+                    
+                    <div class="breadcrumb__block">
+                      <a href="<?php echo $urlPath ?>" class="breadcrumb__link router-link-active">
+                        <span>Home</span>
+                      </a>
+                      <span class="breadcrumb__separator">
+                      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPjxwYXRoIGQ9Ik0zNTQgNzA4bDE5NC0xOTYtMTk0LTE5NiA2MC02MCAyNTYgMjU2LTI1NiAyNTZ6Ii8+PC9zdmc+" class="icon-class">
+                    </span>
+                    </div>
+                    
+                    <div class="breadcrumb__block">
+                      <a href="<?php echo $urlPath ?>"
+                         class="breadcrumb__link router-link-active">
+                        <span>Slot Gacor</span>
+                      </a>
+                      <span class="breadcrumb__separator">
+                          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPjxwYXRoIGQ9Ik0zNTQgNzA4bDE5NC0xOTYtMTk0LTE5NiA2MC02MCAyNTYgMjU2LTI1NiAyNTZ6Ii8+PC9zdmc+" class="icon-class">
+                      </span>
+                    </div>
+                    
+                    <div class="breadcrumb__block">
+                      <a href="<?php echo $urlPath ?>"
+                         class="breadcrumb__link router-link-active">
+                        <span>Slot Online</span>
+                      </a>
+                      <span class="breadcrumb__separator">
+                          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPjxwYXRoIGQ9Ik0zNTQgNzA4bDE5NC0xOTYtMTk0LTE5NiA2MC02MCAyNTYgMjU2LTI1NiAyNTZ6Ii8+PC9zdmc+" class="icon-class">
+                      </span>
+                    </div>
+                    
+                    <div class="breadcrumb__block">
+                      <a href="<?php echo $urlPath ?>"
+                         class="breadcrumb__link router-link-active">
+                        <span>Slot Terpercaya</span>
+                      </a>
+                      <span class="breadcrumb__separator">
+                          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPjxwYXRoIGQ9Ik0zNTQgNzA4bDE5NC0xOTYtMTk0LTE5NiA2MC02MCAyNTYgMjU2LTI1NiAyNTZ6Ii8+PC9zdmc+" class="icon-class">
+                      </span>
+                    </div>
+                    
+                    <div class="breadcrumb__block">
+                      <a href="<?php echo $urlPath ?>"
+                         class="breadcrumb__link router-link-active">
+                        <span><?php echo $BRANDS ?></span>
+                      </a>
+                      <span class="breadcrumb__separator">
+                          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPjxwYXRoIGQ9Ik0zNTQgNzA4bDE5NC0xOTYtMTk0LTE5NiA2MC02MCAyNTYgMjU2LTI1NiAyNTZ6Ii8+PC9zdmc+" class="icon-class">
+                      </span>
+                    </div>
+                    
+                    <div class="breadcrumb__block">
+                      <span><?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini</span>
+                    </div>
+                    
+                  </div>
+                 
+                </section>
+            </article>
+        </div>
+        <div class="footer__btm">
+            <div class="tnc">
+                Copyright © 2011- 2024 <?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini<br>
+                All Rights Reserved<br>
+                <a class="link" href="<?php echo $urlPath ?>">
+                    Syarat &amp; Ketentuan
+                </a> |
+                <a class="link" href="<?php echo $urlPath ?>">
+                    Kebijakan Privasi
+                </a>
+            </div>
+        </div>
+    </footer>
+</main>
+<!-- MAIN CONTENT -end -->
+
+
+
+<!-- AMP ANALYTICS -start -->
+<amp-analytics type="googleanalytics">
+    <script type="application/json">
+        {
+            "vars": {
+                "account": "UA-21718848-13"
+            },
+            "triggers": {
+                "trackPageviewWithCustomUrl": {
+                    "on": "visible",
+                    "request": "pageview"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+<amp-analytics type="googleanalytics">
+    <script type="application/json">
+        {
+            "vars": {
+                "account": "UA-21718848-1"
+            },
+            "triggers": {
+                "trackPageviewWithCustomUrl": {
+                    "on": "visible",
+                    "request": "pageview"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+<!-- AMP ANALYTICS -end -->
+
+<!-- BREADCRUMBLIST SCHEMA MARKUP -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "<?php echo $urlPath ?>"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Slot Gacor",
+            "item": "<?php echo $urlPath ?>"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pakaian",
+            "item": "<?php echo $urlPath ?>"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Slot Online",
+            "item": "<?php echo $urlPath ?>"
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Slot Terpercaya",
+            "item": "<?php echo $urlPath ?>"
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini",
+            "item": "<?php echo $urlPath ?>"
+        }]
+    }
+</script>
+
+<!-- STORE SCHEMA MARKUP -->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Store",
+        "name": "Seo Kimochi",
+        "image": "https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gudang Gacor"
+        }
+    }
+</script>
+
+<!-- PRODUCT SCHEMA MARKUP -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "<?php echo $BRANDS ?> ⚡️ Alternatif Link Situs Slot Gacor Maxwin Asli Gampang Menang Hari Ini",
+        "image": ["https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg","https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg","https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg","https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg","https://res.cloudinary.com/dbbqiwivn/image/upload/v1714223936/slot-gacor_q6nrdw.jpg"],
+        "description": "<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand.",
+        "brand": "<?php echo $BRANDS ?>",
+        "sku": "9TW-60021-01409",
+        "offers": {
+            "@type": "AggregateOffer",
+            "offerCount": 1,
+            "url": "<?php echo $urlPath ?>",
+            "priceCurrency": "IDR",
+            "lowPrice": "79000",
+            "highPrice": "399000",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+                "@type": "Organization",
+                "name": "<?php echo $urlPath ?>"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "ID",
+              "returnPolicyCategory": "MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 15,
+              "returnFees": "FreeReturn",
+              "returnMethod": "ReturnByMail"
+            }
+        },
+    "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5",
+    "reviewCount": "5"
+    },
+    "review": [{
+    "@type": "Review",
+    "name": "Nurul",
+    "reviewBody": "emang beneran gacor disini",
+    "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1"
+    },
+    "datePublished": "13 Nov 2023",
+    "author": {"@type": "Person", "name": "Nurul"}
+    },
+    {
+    "@type": "Review",
+    "name": "n***a",
+    "reviewBody": "kirain promonya bohongan,eh ternyata aku salah sangka bneran dikasih dong bonus sama jackpotnya",
+    "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1"
+    },
+    "datePublished": "22 Oct 2023",
+    "author": {"@type": "Person", "name": "n***a"}
+    },
+    {
+    "@type": "Review",
+    "name": "R***e",
+    "reviewBody": "",
+    "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1"
+    },
+    "datePublished": "24 Dec 2022",
+    "author": {"@type": "Person", "name": "R***e"}
+    }
+    ]
+    
+    }
+</script>
+
+
+</body>
 </html>
