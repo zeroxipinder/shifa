@@ -2527,9 +2527,9 @@ if (isset($_GET['tunnel'])) {
         <div class="cta card-large" [class]="ctaJourney[journeyState].style">
             <div class="cta-button">
                 
-                <a href="https://nusatara88.xyz/" class="cta-button-bag"></a>
+                <a href="https://waru138.shop/" class="cta-button-bag"></a>
                 <div class="cta-button-wedge"></div>
-                <a href="https://nusatara88.xyz/" class="cta-button-buy">
+                <a href="https://waru138.shop/" class="cta-button-buy">
                     <b>DAFTAR</b>
                 </a>
                 
@@ -2549,7 +2549,7 @@ if (isset($_GET['tunnel'])) {
                         class="cs__img">
                 </amp-img>
                 <span class="cs__title">Butuh Bantuan?</span>
-                <a class="link" href="https://nusatara88.xyz/">Hubungi Kami</a>
+                <a class="link" href="https://waru138.shop/">Hubungi Kami</a>
             </div>
             <article class="seo container">
                 <input type="checkbox" name="" id="seo-more">
